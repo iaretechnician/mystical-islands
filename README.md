@@ -94,7 +94,7 @@ To keep the world active and populated from launch, Mystical Islands begins with
 At launch, players will access:
 
 - the mainland kingdom
-- approximately 2-3 islands beyond maknland
+- approximately 2-3 islands beyond mainland
 - several smaller dungeon and expedition areas
 
 Expected outcomes:
