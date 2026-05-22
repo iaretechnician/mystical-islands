@@ -54,8 +54,17 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 | Systems | [Trade Goods](./docs/systems/items_system.md#trade-goods) |
 | Systems | [Leadership & Reputation Systems](./docs/systems/items_system.md#leadership--political-progression) |
 | Systems | [Races & Classes](./docs/systems/races_and_classes.md) |
-| Systems | [Skills & Progression](./docs/systems/skills_and_progression.md) |
-| Systems | [Abilities & Skill Trees](./docs/systems/abilities_and_skill_trees.md) |
+| Systems | [Skills System](./docs/systems/skills_system.md) |
+| Systems | [Abilities System](./docs/systems/abilities_system.md) |
+| Systems | [Effects System](./docs/systems/effects_system.md) |
+| Systems | [Mastery & Progression](./docs/systems/mastery_progression.md) |
+| Systems | [Starting Character Templates](./docs/systems/starting_templates.md) |
+| Systems | [Combat Systems](./docs/systems/abilities_system.md#combat-abilities) |
+| Systems | [Crafting Systems](./docs/systems/skills_system.md#crafting-skills) |
+| Systems | [Naval Systems](./docs/systems/skills_system.md#naval-skills) |
+| Systems | [Leadership Systems](./docs/systems/skills_system.md#social--political-skills) |
+| Systems | [Skills & Progression (legacy)](./docs/systems/skills_and_progression.md) |
+| Systems | [Abilities & Skill Trees (legacy)](./docs/systems/abilities_and_skill_trees.md) |
 | Asset Pipeline | [Asset Pipeline & Store Links](./docs/assets/asset_pipeline_and_store_links.md) |
 
 ## Asset Pipeline & Production Tools
@@ -97,8 +106,11 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 - [Economy & Trade](./docs/systems/items_system.md#economy--trade)
 - [Leadership & Political Progression](./docs/systems/items_system.md#leadership--political-progression)
 - [Races & Classes](./docs/systems/races_and_classes.md)
-- [Skills & Progression](./docs/systems/skills_and_progression.md)
-- [Abilities & Skill Trees](./docs/systems/abilities_and_skill_trees.md)
+- [Skills System](./docs/systems/skills_system.md)
+- [Abilities System](./docs/systems/abilities_system.md)
+- [Effects System](./docs/systems/effects_system.md)
+- [Mastery & Progression](./docs/systems/mastery_progression.md)
+- [Starting Character Templates](./docs/systems/starting_templates.md)
 - [Asset Pipeline & Store Links](./docs/assets/asset_pipeline_and_store_links.md)
 
 [Return to README](./README.md)
