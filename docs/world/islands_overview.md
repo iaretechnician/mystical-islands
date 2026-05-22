@@ -14,7 +14,7 @@ The island network is the backbone of Mystical Isles. Each region must support a
 | Witchwood Isle | Blackwood forest, mist valleys, hidden ruins | Enchanted wilderness with secretive powers | 10-25 | Early exploration, corruption mystery |
 | Frostpeak Isle | Frozen mountains, mines, caverns | Harsh alpine frontier and dwarven industry | 20-35 | Crafting, mining, dungeon delves |
 | Ashen Deadlands | Volcanic wastes, cursed ruins, war-scarred plains | Hostile survival zone under constant threat | 30-45 | Open conflict, elite danger, relic recovery |
-| Shattered Reefs | Rocky desert canyons, coves, oases | Pirate frontier and treasure coast | 25-40 | Naval combat, smuggling, treasure hunting |
+| Shattered Reefs | Rocky desert canyons, coves, oases | Pirate frontier, reef treasure coast, and canyon tribal civilization | 25-40 | Naval combat, smuggling, treasure hunting, tribal diplomacy |
 | Stormreach Isles | Tempest seas, fractured towers, unstable routes | Endgame anomaly frontier | 40-60 | High-end exploration, portals, world threats |
 
 ## The Mainland Kingdom
@@ -80,17 +80,39 @@ The Ashen Deadlands are a fractured war zone where cursed ruins, volcanic terrai
 ## The Shattered Reefs
 
 ### Overview
-The Shattered Reefs combine pirate fantasy, canyon traversal, and ship-driven progression. It should feel lawless but full of opportunity for skilled navigators and treasure hunters.
+The Shattered Reefs combine pirate fantasy, canyon traversal, and ship-driven progression with a rich native culture that predates the arrival of any sea rovers. The outer coasts belong to the Free Reef Corsairs — lawless, opportunistic, and dangerous. The inner canyons and hidden oases belong to the **Reef Wardens**, a canyon-dwelling tribal civilization with deep roots in the land, the storms, and the ancient ruins buried beneath the canyon floors.
+
+The island should feel layered: the surface reads as a lawless pirate frontier, but the deeper players venture into the canyons, the more they discover that someone has always lived here — and that they have been watching from above.
 
 ### Region Profile
 - **Environment:** rocky desert canyons, hidden coves, reef mazes, salt flats, sea caves, and lush oasis pockets
-- **Major cities:** Redwake Port, Smuggler's Lantern, and the hidden oasis market of Saffron Hollow
-- **Races and factions:** pirate crews, smugglers, mercantile defectors, free captains, dock gangs, and treasure leagues
-- **Threats:** ambush fleets, reef beasts, naval chokepoints, rival treasure hunters, and collapsing canyon ruins
-- **Resources:** contraband, ship parts, rare spices, treasure charts, coral metals, and black-market salvage
-- **Gameplay role:** naval combat, treasure hunting, smuggling missions, convoy interception, and mid-game exploration routing
+- **Major cities (Corsair):** Redwake Port, Smuggler's Lantern, and the hidden oasis market of Saffron Hollow
+- **Major settlements (Reef Warden):** cliff-carved villages built into canyon walls, the oasis sanctuary of Stonethirst Basin, and the relic-guardian stronghold of the Hollow Spire
+- **Races and factions:** Free Reef Corsairs (pirate crews, smugglers, free captains), Reef Wardens (canyon dwellers, storm-readers, relic guardians, reef navigators), treasure leagues, and treasure hunters
+- **Threats:** ambush fleets, reef beasts, naval chokepoints, rival treasure hunters, collapsing canyon ruins, and territorial Reef Warden patrols in the inner canyon zones
+- **Resources:** contraband, ship parts, rare spices, treasure charts, coral metals, black-market salvage, canyon relic fragments, and Reef Warden-exclusive oasis trade goods
+- **Gameplay role:** naval combat, treasure hunting, smuggling missions, convoy interception, mid-game exploration routing, and tribal diplomacy quests through the inner canyon network
 - **Progression range:** levels 25-40
-- **Notable landmarks:** the Hookjaw Reefs, the Scarlet Narrows, the Whisper Vault, and the oasis known as Queen's Shade
+- **Notable landmarks:** the Hookjaw Reefs, the Scarlet Narrows, the Whisper Vault, the oasis known as Queen's Shade, the Hollow Spire relic stronghold, and the cliff-carved Reef Warden village of Canyon's Throat
+
+### The Reef Wardens — Canyon Civilization
+
+The Reef Wardens are the island's original inhabitants — a tribal civilization that has occupied the interior canyon networks, sea cliffs, and hidden oases of the Shattered Reefs since before recorded history. They are not pirates. They are not simply desert dwellers. They are something entirely their own.
+
+| Cultural Identity | Description |
+| --- | --- |
+| **Canyon Dwellers** | Their villages are carved directly into cliff faces and canyon walls — invisible from the sea, invisible from the reef, accessible only to those who know the paths |
+| **Reef Navigators** | Generations of accumulated knowledge makes Reef Warden pilots the only beings capable of safely navigating the most dangerous reef passages |
+| **Storm Readers** | Specialist storm-reader roles within their society interpret weather patterns, ocean current behavior, and aetheric energy signatures carried on the wind |
+| **Tribal Sailors** | They use small, agile reef-adapted vessels built from a hybrid of traditional craftsmanship and salvaged materials — fast, shallow-draft, and nearly invisible in reef corridors |
+| **Oasis Protectors** | The hidden freshwater oases of the interior are sacred to the Reef Wardens — they control access and will not permit exploitation of these vital resources |
+| **Relic Guardians** | Beneath the canyon floors lie pre-Fracturing ruins. The Reef Wardens have protected these sites for generations, and their oral history contains fragments of the true purpose of what lies buried beneath |
+
+**Technology:** The Reef Wardens' material culture blends traditional canyon craftsmanship with salvaged ship timber, reef coral structural materials, and bronze-age metalwork. Their tools and architecture reflect centuries of adaptation — nothing is wasted, everything is integrated into the canyon environment. They also tame and domesticate desert creatures native to the canyon interior, which serve roles in scouting, hauling, and defense.
+
+**Relationship with the Free Reef Corsairs:** An undeclared but understood territorial boundary divides the island. Pirates control the outer reef ports and coastal coves. The Reef Wardens control the inner canyons, hidden oases, and canyon ruin sites. This arrangement is maintained through mutual pragmatism — the Corsairs cannot navigate the inner reef passages without Reef Warden guidance, and the Reef Wardens occasionally trade canyon resources for sea-salvage they cannot produce themselves. The relationship is tense, not hostile. But it is fragile.
+
+**Player Interaction:** Building Reef Warden reputation — separate from the Free Reef Corsairs faction standing — unlocks inner canyon route access, hidden oasis markets, relic-guardian quest lines, storm-reading information services, and deep canyon dungeon access. Some of the island's most valuable discoveries are gated entirely behind Reef Warden trust.
 
 ## Stormreach Isles
 
@@ -116,5 +138,6 @@ Stormreach is the late-game frontier where reality remains visibly unstable. It 
 - [Creatures & Monsters](./creatures_and_monsters.md)
 - [Naval Travel](../systems/naval_travel.md)
 - [Exploration Systems](../systems/exploration_systems.md)
+- [Asset Pipeline & Store Links](../assets/asset_pipeline_and_store_links.md)
 
 [Return to README](../../README.md)
