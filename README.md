@@ -1,403 +1,71 @@
-# Mystical Islands
-
-Persistent online fantasy sandbox RPG focused on exploration, faction politics, civilization building, and a living world that reacts to player actions.
-
-## Internal Design Documentation
-
-
-
-# Mystical Islands — Core Design Vision & World Architecture
-
-## Project Overview
-
-Mystical Islands is being designed as a persistent online fantasy sandbox RPG centered around:
-
-- exploration
-- faction politics
-- civilization building
-- cooperative expeditions
-- territorial conflict
-- a living world that reacts to player actions
-
-Rather than building a traditional theme-park MMO where players move from quest hub to quest hub, the goal is to create a world where players shape the history of the archipelago through cooperation, rivalry, trade, exploration, warfare, and long-term world influence.
-
-### Core Pillars
-
-- persistent online multiplayer
-- faction politics
-- cooperative PvE
-- PvPvE conflict
-- territory control
-- evolving civilization systems
-- dynamic world events
-- exploration and discovery
-- reactive world-state systems
-
-**Core philosophy:**
-
-- The world should not feel static.
-- The world should react to players.
-
----
-
-## World Structure
-
-The game world consists of:
-
-- a central mainland kingdom hub
-- multiple surrounding islands
-- instanced dungeons and expedition zones
-- evolving unexplored frontier regions
-
-### Mainland Kingdom Hub
-
-The mainland is the social and political center of civilization where players:
-
-- trade
-- socialize
-- craft
-- recruit guild members
-- manage faction activity
-- organize expeditions
-- defend settlements
-- participate in politics and economy
-
-### Surrounding Islands
-
-The surrounding islands act as:
-
-- exploration zones
-- faction territories
-- resource regions
-- corruption zones
-- PvPvE conflict areas
-- dungeon and expedition environments
-
-Each island should develop its own identity through:
-
-- biome design
-- resources
-- dangers
-- strategic importance
-- player-controlled territory
-- corruption activity
-- faction influence
-
----
-
-## Controlled World Expansion
-
-To keep the world active and populated from launch, Mystical Islands begins with a smaller intentional footprint rather than dozens of oversized empty regions.
-
-### Launch Structure
-
-At launch, players will access:
-
-- the mainland kingdom
-- approximately 2-3 islands beyond mainland
-- several smaller dungeon and expedition areas
-
-Expected outcomes:
-
-- higher player density
-- stronger social interaction
-- more faction conflict
-- more active towns
-- more meaningful exploration
-- stronger multiplayer experiences
-
-Even with a smaller player population, the world should still feel alive.
-
----
-
-## The Living Frontier
-
-The broader archipelago exists beyond the launch regions, but much of it remains inaccessible at first.
-
-Lore-based barriers include:
-
-- magical storms
-- unstable portal routes
-- corrupted seas
-- sea monsters
-- dimensional instability
-- ancient magical barriers
-- collapsed navigation routes
-
-Players constantly hear rumors of distant islands, creating the sense of a much larger world beyond current civilization.
-
----
-
-## Scaling With the Player Base
-
-As population and systems mature, additional islands unlock through world progression and live events, for example:
-
-- corruption storms weakening
-- sea routes reopening
-- portal stabilization rituals succeeding
-- new expedition discoveries
-- ancient seals breaking
-- faction outposts securing travel lanes
-
-Benefits:
-
-- prevents empty MMO regions
-- keeps density healthy
-- enables scalable server architecture
-- supports long-term expansion
-- keeps development scope manageable
-- creates discovery-driven excitement
-
-The archipelago itself becomes part of progression.
-
----
-
-## Core Gameplay Philosophy
-
-Mystical Islands is not intended as a heavily scripted linear MMO. It is built around:
-
-- emergent gameplay
-- player-driven conflict
-- dynamic territory control
-- cooperative survival
-- political interaction
-- evolving world systems
-
-Players should remember stories they created:
-
-- faction wars
-- territorial disputes
-- alliances and betrayals
-- island invasions
-- famous guilds
-- world events
-- rise and fall of settlements
-
-The design goal is player-authored history.
-
----
-
-## Civilization Over Chaos
-
-The game intentionally avoids unrestricted Rust-style structure spam and clutter. Civilization growth is structured and world-aware.
-
-Players and guilds may:
-
-- claim territory
-- restore ruins
-- maintain settlements
-- build infrastructure
-- strengthen defenses
-- establish trade routes
-- upgrade strategic locations
-
-The world evolves visually and mechanically as civilization expands.
-
----
-
-## Player Structures & Development
-
-### Personal Structures
-
-Players may own:
-
-- homes
-- cabins
-- tents
-- expedition camps
-- hidden caches
-- gardens
-- crafting rooms
-- trophy halls
-
-These support:
-
-- storage
-- identity
-- crafting functionality
-- cosmetic progression
-
-### Guild Structures
-
-Guilds may construct:
-
-- guild halls
-- warehouses
-- watch towers
-- docks
-- blacksmiths
-- mage towers
-- armories
-- taverns
-- marketplaces
-- defensive walls
-
-These provide:
-
-- bonuses
-- logistics
-- storage
-- strategic advantages
-- social gathering spaces
-
-### Civilization Infrastructure
-
-Settlements may require upkeep of:
-
-- roads
-- bridges
-- walls
-- gates
-- docks
-- granaries
-- guard towers
-- magical wards
-- corruption defenses
-
-If neglected:
-
-- corruption spreads
-- defenses weaken
-- NPC activity declines
-- invasions become more frequent
-
-The world should feel dependent on player participation.
-
----
-
-## Guilds & Factions
-
-Guilds are long-term organizations, not only social chat groups.
-
-Guilds and factions may:
-
-- control islands
-- own settlements
-- manage trade routes
-- defend strategic locations
-- participate in wars
-- create alliances
-- tax regions
-- maintain infrastructure
-- influence regional economies
-
-Political and social systems are a primary long-term gameplay driver.
-
----
-
-## Exploration & Expeditions
-
-Different islands may function as:
-
-- shared persistent worlds
-- faction conflict zones
-- guild expedition islands
-- corruption regions
-- rare event islands
-- instanced dungeon environments
-
-Exploration should be dangerous and rewarding, with discoveries such as:
-
-- hidden lore
-- rare resources
-- relics
-- ruins
-- monsters
-- evolving world events
-- lost civilizations
-
----
-
-## The Corruption System
-
-Corruption tied to the Veiled Queen is a global pressure mechanic pushing the world to evolve.
-
-If ignored, corruption may:
-
-- spread across islands
-- mutate creatures
-- destabilize portals
-- weaken settlements
-- trigger invasions
-- alter environments
-- create large-scale threats
-
-This creates ongoing tension between:
-
-- cooperation
-- expansion
-- survival
-- political conflict
-
-Corruption helps prevent world stagnation.
-
----
-
-## Technical Architecture
-
-The game is designed around scalable server separation:
-
-- mainland world servers
-- island-based regional servers
-- instanced dungeon environments
-- persistent world-state systems
-
-This architecture supports:
-
-- lower lag
-- scalable population growth
-- isolated world events
-- controlled server load
-- phased world expansion
-
-Island segmentation allows population distribution without requiring a single massive seamless server.
-
----
-
-## Development Priorities
-
-Project priorities:
-
-- strong gameplay loops
-- stable multiplayer systems
-- reactive world-state mechanics
-- meaningful social interaction
-- scalable architecture
-- memorable exploration
-- long-term replayability
-
-### First Milestone Focus
-
-Prove the core gameplay loop with:
-
-- mainland hub
-- several playable islands
-- faction interaction
-- territory ownership
-- cooperative expeditions
-- persistent progression
-- world-state reactions
-- corruption events
-
-After foundation validation, expand islands and systems alongside the community.
-
----
-
-## Final Design Philosophy
-
-Mystical Islands is **not** intended to feel like:
-
-- a static MMO
-- a lobby game
-- a survival wipe simulator
-- a scripted theme park
-
-It is intended to feel like:
-
-- a living civilization
-- a dangerous frontier
-- a reactive political sandbox
-- an evolving fantasy archipelago
-- a world shaped by player actions and history
-
-Players should feel the world existed before them, but changed because of them.
+[Return to README](./README.md)
+
+# Mystical Isles
+
+Mystical Isles is a cooperative online RPG set across a fractured archipelago where trade, survival, faction conflict, and discovery shape the history of every voyage.
+
+## Game Vision
+
+Mystical Isles is built around a dangerous island frontier rather than a single safe continent.
+
+- **Cooperative online RPG:** players form crews, guilds, and expeditions to survive hazards no solo traveler can reliably overcome.
+- **Exploration:** islands hide ruins, relics, caves, vaults, and forgotten routes that reward careful investigation.
+- **Dangerous seas:** each island is separated by lethal waters filled with storms, predators, wreckage, and unstable currents.
+- **Factions:** kingdoms, covens, clans, pirates, scholars, and opportunists compete for influence, territory, and ancient knowledge.
+- **Ancient ruins:** the landscape is filled with pre-Fracturing structures whose true purpose has been lost to history.
+- **Survival:** travel requires supplies, repairs, route planning, and adapting to hostile environments.
+- **Discovery:** lore, artifacts, creatures, and world events are designed to reward curiosity and risk.
+- **Player progression:** growth comes from equipment, reputation, relic knowledge, navigation access, and mastery of dangerous regions.
+- **Trade and exploration:** shipping lanes, recovered resources, crafted upgrades, and rare discoveries create a loop between civilization and frontier expeditions.
+
+## The TRUE History (Developer Overview)
+
+Before The Fracturing, the world was dominated by an ancient civilization with advanced energy infrastructure, planetary research complexes, and dimensional engineering far beyond modern understanding. Their cities were powered by vast aetheric networks, and their ruling scholars believed reality itself could be stabilized, redirected, and harvested.
+
+That ambition caused the catastrophe. Large-scale experimentation with dimensional and planetary energy ruptured the systems that anchored the world. The resulting chain reaction triggered **The Fracturing**: continents collapsed, oceans surged across the land, and reality became unstable around the most heavily developed regions.
+
+Exposure to extra-dimensional forces changed everything that survived. What modern people call **magic** is the lingering interaction between living beings and fractured dimensional energy. Wildlife, ecosystems, and entire biomes mutated under that pressure. **The Veil** is the ongoing spread of dimensional corruption through weakened areas of reality.
+
+The ancient civilization built **Aether Wards** to stabilize reality, contain breaches, and slow the collapse. **Portals** are damaged remnants of their gateway network. **Ancient ruins** are technological facilities from before The Fracturing, though most modern inhabitants mistake their systems for enchanted architecture or divine relics.
+
+## Documentation Links
+
+| Category | Document |
+| --- | --- |
+| Project Hub | [README](./README.md) |
+| Player Lore | [Player Lore](./docs/lore/player_lore.md) |
+| True History | [True History](./docs/lore/true_history.md) |
+| World | [Islands Overview](./docs/world/islands_overview.md) |
+| World | [Creatures & Monsters](./docs/world/creatures_and_monsters.md) |
+| Quest Design | [Quest Design](./docs/quests/quest_design.md) |
+| Quest Design | [Artifacts & Objects](./docs/quests/artifacts_and_objects.md) |
+| Factions | [Factions](./docs/factions/factions.md) |
+| Internal Design | [Design Index](./docs/design/README.md) |
+| Internal Design | [Core Design Vision](./docs/design/core-design-vision-world-architecture.md) |
+| Internal Design | [Ancient Technology](./docs/design/ancient_technology.md) |
+| Systems | [Magic System](./docs/systems/magic_system.md) |
+| Systems | [Naval Travel](./docs/systems/naval_travel.md) |
+| Systems | [Exploration Systems](./docs/systems/exploration_systems.md) |
+
+## Documentation Structure
+
+- `docs/lore/` — player-facing myths and internal setting truth
+- `docs/world/` — islands, creatures, regions, and landmark reference
+- `docs/quests/` — quest framework, artifacts, and discovery rewards
+- `docs/factions/` — political groups, rivalries, and reputation anchors
+- `docs/design/` — internal architecture, world logic, and ancient systems
+- `docs/systems/` — gameplay systems that support traversal, magic, and exploration
+
+## Related Documents
+
+- [Player Lore](./docs/lore/player_lore.md)
+- [True History](./docs/lore/true_history.md)
+- [Islands Overview](./docs/world/islands_overview.md)
+- [Quest Design](./docs/quests/quest_design.md)
+- [Factions](./docs/factions/factions.md)
+- [Ancient Technology](./docs/design/ancient_technology.md)
+- [Magic System](./docs/systems/magic_system.md)
+- [Naval Travel](./docs/systems/naval_travel.md)
+- [Exploration Systems](./docs/systems/exploration_systems.md)
+
+[Return to README](./README.md)
