@@ -44,6 +44,11 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 | Internal Design | [Core Design Vision](./docs/design/core-design-vision-world-architecture.md) |
 | Internal Design | [Ancient Technology](./docs/design/ancient_technology.md) |
 | Systems | [Magic System](./docs/systems/magic_system.md) |
+| Systems | [Leveling & XP](./docs/systems/leveling_and_xp.md) |
+| Systems | [Reward Profiles](./docs/systems/reward_profiles.md) |
+| Systems | [Player Ranks](./docs/systems/player_ranks.md) |
+| Systems | [Titles & Reputation](./docs/systems/titles_and_reputation.md) |
+| Systems | [Faction Progression](./docs/systems/faction_progression.md) |
 | Systems | [Naval Travel](./docs/systems/naval_travel.md) |
 | Systems | [Exploration Systems](./docs/systems/exploration_systems.md) |
 | Systems | [Item System](./docs/systems/items_system.md) |
@@ -63,6 +68,8 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 | Systems | [Crafting Systems](./docs/systems/skills_system.md#crafting-skills) |
 | Systems | [Naval Systems](./docs/systems/skills_system.md#naval-skills) |
 | Systems | [Leadership Systems](./docs/systems/skills_system.md#social--political-skills) |
+| Systems | [Skills & Progression](./docs/systems/skills_and_progression.md) |
+| Systems | [Political Systems](./docs/systems/faction_progression.md#political-advancement-and-world-office) |
 | Systems | [Skills & Progression (legacy)](./docs/systems/skills_and_progression.md) |
 | Systems | [Abilities & Skill Trees (legacy)](./docs/systems/abilities_and_skill_trees.md) |
 | Asset Pipeline | [Asset Pipeline & Store Links](./docs/assets/asset_pipeline_and_store_links.md) |
@@ -100,6 +107,11 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 - [Factions](./docs/factions/factions.md)
 - [Ancient Technology](./docs/design/ancient_technology.md)
 - [Magic System](./docs/systems/magic_system.md)
+- [Leveling & XP](./docs/systems/leveling_and_xp.md)
+- [Reward Profiles](./docs/systems/reward_profiles.md)
+- [Player Ranks](./docs/systems/player_ranks.md)
+- [Titles & Reputation](./docs/systems/titles_and_reputation.md)
+- [Faction Progression](./docs/systems/faction_progression.md)
 - [Naval Travel](./docs/systems/naval_travel.md)
 - [Exploration Systems](./docs/systems/exploration_systems.md)
 - [Item System](./docs/systems/items_system.md)
@@ -107,6 +119,9 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 - [Leadership & Political Progression](./docs/systems/items_system.md#leadership--political-progression)
 - [Races & Classes](./docs/systems/races_and_classes.md)
 - [Skills System](./docs/systems/skills_system.md)
+- [Leadership Systems](./docs/systems/skills_system.md#social--political-skills)
+- [Skills & Progression](./docs/systems/skills_and_progression.md)
+- [Political Systems](./docs/systems/faction_progression.md#political-advancement-and-world-office)
 - [Abilities System](./docs/systems/abilities_system.md)
 - [Effects System](./docs/systems/effects_system.md)
 - [Mastery & Progression](./docs/systems/mastery_progression.md)
