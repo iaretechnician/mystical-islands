@@ -9,6 +9,9 @@ Use these pages as chapter hubs for the playable loops that turn worldbuilding a
 
 ## Included Documents
 
+### [🐉 Bestiary](bestiary/README.md)
+Creature encyclopedia, ecosystem guide, faction enemy reference, and progression codex.
+
 ### [📈 Gameplay Track: Progression](progression/README.md)
 Progression implementation track covering leveling, mastery, rewards, and retention pacing.
 
