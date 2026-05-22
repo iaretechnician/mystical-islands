@@ -58,6 +58,12 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 | Systems | [Item Master List](./docs/systems/item_master_list.md) |
 | Systems | [Crafting System](./docs/systems/skills_system.md#crafting-skills) |
 | Systems | [Economy System](./docs/systems/items_system.md) |
+| Systems | [Faction Vendors](./docs/systems/faction_vendors.md) |
+| Systems | [Black Market Merchants](./docs/systems/black_market_merchants.md) |
+| Systems | [Vendor Locations](./docs/systems/vendor_locations.md) |
+| Systems | [Rare Item Buyers](./docs/systems/rare_item_buyers.md) |
+| Systems | [Merchant Tables](./docs/systems/merchant_tables.md) |
+| Systems | [Merchant System](./docs/systems/merchant_system.md) |
 | Systems | [Currency System](./docs/systems/currency_system.md) |
 | Systems | [Naval Equipment](./docs/systems/equipment_and_slots.md) |
 | Systems | [Relics & Artifacts](./docs/systems/item_effects_and_requirements.md) |
@@ -137,6 +143,12 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 - [Item Effects & Requirements](./docs/systems/item_effects_and_requirements.md)
 - [Item Master List](./docs/systems/item_master_list.md)
 - [Economy & Trade](./docs/systems/items_system.md)
+- [Merchant System](./docs/systems/merchant_system.md)
+- [Merchant Tables](./docs/systems/merchant_tables.md)
+- [Rare Item Buyers](./docs/systems/rare_item_buyers.md)
+- [Vendor Locations](./docs/systems/vendor_locations.md)
+- [Black Market Merchants](./docs/systems/black_market_merchants.md)
+- [Faction Vendors](./docs/systems/faction_vendors.md)
 - [Currency System](./docs/systems/currency_system.md)
 - [Leadership & Political Progression](./docs/systems/items_system.md#leadership--political-progression)
 - [Races & Classes](./docs/systems/races_and_classes.md)
