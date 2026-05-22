@@ -53,6 +53,9 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 | Systems | [Relics & Artifacts](./docs/systems/items_system.md#relics--artifacts) |
 | Systems | [Trade Goods](./docs/systems/items_system.md#trade-goods) |
 | Systems | [Leadership & Reputation Systems](./docs/systems/items_system.md#leadership--political-progression) |
+| Systems | [Races & Classes](./docs/systems/races_and_classes.md) |
+| Systems | [Skills & Progression](./docs/systems/skills_and_progression.md) |
+| Systems | [Abilities & Skill Trees](./docs/systems/abilities_and_skill_trees.md) |
 | Asset Pipeline | [Asset Pipeline & Store Links](./docs/assets/asset_pipeline_and_store_links.md) |
 
 ## Asset Pipeline & Production Tools
@@ -93,6 +96,9 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 - [Item System](./docs/systems/items_system.md)
 - [Economy & Trade](./docs/systems/items_system.md#economy--trade)
 - [Leadership & Political Progression](./docs/systems/items_system.md#leadership--political-progression)
+- [Races & Classes](./docs/systems/races_and_classes.md)
+- [Skills & Progression](./docs/systems/skills_and_progression.md)
+- [Abilities & Skill Trees](./docs/systems/abilities_and_skill_trees.md)
 - [Asset Pipeline & Store Links](./docs/assets/asset_pipeline_and_store_links.md)
 
 [Return to README](./README.md)
