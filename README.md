@@ -59,9 +59,15 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 | Systems | [Trade Goods](./docs/systems/items_system.md#trade-goods) |
 | Systems | [Leadership & Reputation Systems](./docs/systems/items_system.md#leadership--political-progression) |
 | Systems | [Races & Classes](./docs/systems/races_and_classes.md) |
+| Systems | [Damage Types & Resistances](./docs/systems/damage_types_and_resistances.md) |
+| Systems | [Stat System](./docs/systems/damage_types_and_resistances.md#part-3--required-resistance-stats) |
+| Systems | [Combat System](./docs/systems/damage_types_and_resistances.md#part-1--atavism-damage-type-overview) |
 | Systems | [Skills System](./docs/systems/skills_system.md) |
 | Systems | [Abilities System](./docs/systems/abilities_system.md) |
 | Systems | [Effects System](./docs/systems/effects_system.md) |
+| Systems | [Items System](./docs/systems/items_system.md) |
+| World | [Creature Design](./docs/world/creatures_and_monsters.md) |
+| Systems | [Naval Combat](./docs/systems/damage_types_and_resistances.md#part-7--damage-type-details) |
 | Systems | [Mastery & Progression](./docs/systems/mastery_progression.md) |
 | Systems | [Starting Character Templates](./docs/systems/starting_templates.md) |
 | Systems | [Combat Systems](./docs/systems/abilities_system.md#combat-abilities) |
@@ -118,12 +124,18 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 - [Economy & Trade](./docs/systems/items_system.md#economy--trade)
 - [Leadership & Political Progression](./docs/systems/items_system.md#leadership--political-progression)
 - [Races & Classes](./docs/systems/races_and_classes.md)
+- [Damage Types & Resistances](./docs/systems/damage_types_and_resistances.md)
+- [Stat System](./docs/systems/damage_types_and_resistances.md#part-3--required-resistance-stats)
+- [Combat System](./docs/systems/damage_types_and_resistances.md#part-1--atavism-damage-type-overview)
 - [Skills System](./docs/systems/skills_system.md)
+- [Items System](./docs/systems/items_system.md)
 - [Leadership Systems](./docs/systems/skills_system.md#social--political-skills)
 - [Skills & Progression](./docs/systems/skills_and_progression.md)
 - [Political Systems](./docs/systems/faction_progression.md#political-advancement-and-world-office)
 - [Abilities System](./docs/systems/abilities_system.md)
 - [Effects System](./docs/systems/effects_system.md)
+- [Creature Design](./docs/world/creatures_and_monsters.md)
+- [Naval Combat](./docs/systems/damage_types_and_resistances.md#part-7--damage-type-details)
 - [Mastery & Progression](./docs/systems/mastery_progression.md)
 - [Starting Character Templates](./docs/systems/starting_templates.md)
 - [Asset Pipeline & Store Links](./docs/assets/asset_pipeline_and_store_links.md)
