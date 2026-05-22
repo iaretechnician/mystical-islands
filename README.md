@@ -53,6 +53,21 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 | Systems | [Relics & Artifacts](./docs/systems/items_system.md#relics--artifacts) |
 | Systems | [Trade Goods](./docs/systems/items_system.md#trade-goods) |
 | Systems | [Leadership & Reputation Systems](./docs/systems/items_system.md#leadership--political-progression) |
+| Asset Pipeline | [Asset Pipeline & Store Links](./docs/assets/asset_pipeline_and_store_links.md) |
+
+## Asset Pipeline & Production Tools
+
+| Category | Document |
+| --- | --- |
+| Asset Pipeline & Store Links | [Asset Pipeline & Store Links](./docs/assets/asset_pipeline_and_store_links.md) |
+| Environment Systems | [Asset Pipeline & Store Links — World Generation](./docs/assets/asset_pipeline_and_store_links.md#world-generation--terrain) |
+| Character Systems | [Asset Pipeline & Store Links — SYNTY Characters](./docs/assets/asset_pipeline_and_store_links.md#polygon-modular-fantasy-hero-characters) |
+| World Generation | [Asset Pipeline & Store Links — Gaia Pro & GeNa Pro](./docs/assets/asset_pipeline_and_store_links.md#world-generation--terrain) |
+| Networking & Backend | [Asset Pipeline & Store Links — Atavism X](./docs/assets/asset_pipeline_and_store_links.md#mmorpg-framework--atavism-x) |
+| Audio Systems | [Asset Pipeline & Store Links — Master Audio](./docs/assets/asset_pipeline_and_store_links.md#audio--master-audio-aaa-sound) |
+| Water & Weather | [Asset Pipeline & Store Links — Water & Weather](./docs/assets/asset_pipeline_and_store_links.md#water-systems--poseidon-low-poly-water) |
+| Creature Packs | [Asset Pipeline & Store Links — Creature Systems](./docs/assets/asset_pipeline_and_store_links.md#creature-systems--infinitypbr--magic-pig) |
+| Future Expansion Assets | [Asset Pipeline & Store Links — Future Expansion](./docs/assets/asset_pipeline_and_store_links.md#future-expansion-notes) |
 
 ## Documentation Structure
 
@@ -62,6 +77,7 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 - `docs/factions/` — political groups, rivalries, and reputation anchors
 - `docs/design/` — internal architecture, world logic, and ancient systems
 - `docs/systems/` — gameplay systems that support traversal, magic, and exploration
+- `docs/assets/` — third-party asset pipeline, store links, and production tools reference
 
 ## Related Documents
 
@@ -77,5 +93,6 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 - [Item System](./docs/systems/items_system.md)
 - [Economy & Trade](./docs/systems/items_system.md#economy--trade)
 - [Leadership & Political Progression](./docs/systems/items_system.md#leadership--political-progression)
+- [Asset Pipeline & Store Links](./docs/assets/asset_pipeline_and_store_links.md)
 
 [Return to README](./README.md)

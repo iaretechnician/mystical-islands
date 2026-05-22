@@ -17,6 +17,7 @@ Factions turn exploration into politics. They give context to territorial confli
 | Cinder Tribes | Ashen Deadlands | Orc warbands and survivalist clans | Claim strength through conquest and salvage | Undead hosts, rival warbands, outsiders |
 | Gravebound Legions | Ashen Deadlands | Undead rulers and necromantic remnants | Expand cursed dominion through ruin control | Everyone living |
 | Free Reef Corsairs | Shattered Reefs | Pirate captains and smugglers | Profit through mobility, secrecy, and seized routes | Navy blockades, internal betrayal |
+| Reef Wardens | Shattered Reefs | Canyon-dwelling tribal civilization | Protect the inner canyons, oases, and relic sites from exploitation | Corsair encroachment, relic hunters, outsider intrusion |
 | Tempest Accord | Stormreach Isles | Scholars, engineers, and elite explorers | Stabilize routes and exploit anomaly zones | Cults, storms, catastrophic failure |
 
 ## Reputation Design
@@ -40,8 +41,14 @@ The dwarf holds are pragmatic, proud, and heavily invested in excavation. They c
 ### Ashen Deadlands: Cinder Tribes and Gravebound Legions
 This region is driven by survival and attrition. Orc warbands are not uniformly villainous, but they are brutal competitors for territory and salvage. The Gravebound Legions represent corrupted militaries, necromantic cult remnants, and cursed command structures left active long after the old world died.
 
-### The Shattered Reefs: Free Reef Corsairs
-The Reefs operate on reputation, leverage, and hidden routes rather than formal law. Pirate factions can serve as antagonists, informants, route brokers, or temporary allies depending on player behavior.
+### The Shattered Reefs: Free Reef Corsairs and Reef Wardens
+The Reefs operate on two separate power structures that share a single island in uneasy coexistence.
+
+The **Free Reef Corsairs** operate on reputation, leverage, and hidden routes rather than formal law. Pirate factions can serve as antagonists, informants, route brokers, or temporary allies depending on player behavior. Their power is concentrated in the outer reef ports, coastal coves, and sea-facing infrastructure.
+
+The **Reef Wardens** are the island's original inhabitants — a canyon-dwelling tribal civilization whose culture predates any pirate presence. Their identity is built around reef navigation, storm reading, oasis stewardship, and the protection of pre-Fracturing ruin sites buried beneath the canyon floors. They are not hostile by default, but they are protective of their territory and their secrets. Players must earn Reef Warden standing independently from Corsair reputation.
+
+The two factions operate under an unspoken territorial division: Corsairs own the outer coasts, Reef Wardens own the inner canyons. This arrangement is pragmatic — Corsairs cannot navigate the inner reef passages without Reef Warden knowledge, and the Reef Wardens occasionally require sea-route goods they cannot produce in their canyon settlements. The balance is maintained by mutual need and mutual restraint, but it is not stable, and player actions can shift it in either direction.
 
 ### Stormreach Isles: Tempest Accord
 The Tempest Accord is an expedition coalition rather than a traditional nation. It combines scholars, ward technicians, navigators, mercenary escorts, and high-risk financiers who understand that Stormreach can either save civilization or destroy what remains of it.
@@ -54,5 +61,6 @@ The Tempest Accord is an expedition coalition rather than a traditional nation. 
 - [Quest Design](../quests/quest_design.md)
 - [Artifacts & Objects](../quests/artifacts_and_objects.md)
 - [Naval Travel](../systems/naval_travel.md)
+- [Asset Pipeline & Store Links](../assets/asset_pipeline_and_store_links.md)
 
 [Return to README](../../README.md)
