@@ -83,6 +83,12 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 | Systems | [Political Systems](./docs/systems/faction_progression.md#political-advancement-and-world-office) |
 | Systems | [Skills & Progression (legacy)](./docs/systems/skills_and_progression.md) |
 | Systems | [Abilities & Skill Trees (legacy)](./docs/systems/abilities_and_skill_trees.md) |
+| Building & Claims | [Building & Claims System](./docs/systems/building_and_claims_system.md) |
+| Building & Claims | [Build Object Templates](./docs/systems/build_object_templates.md) |
+| Building & Claims | [Claim Profiles](./docs/systems/claim_profiles.md) |
+| Building & Claims | [Player Settlements](./docs/systems/player_settlements.md) |
+| Building & Claims | [Building Categories](./docs/systems/building_categories.md) |
+| Building & Claims | [Race & Class Building Identity](./docs/systems/race_class_building_identity.md) |
 | Asset Pipeline | [Asset Pipeline & Store Links](./docs/assets/asset_pipeline_and_store_links.md) |
 
 ## Asset Pipeline & Production Tools
@@ -153,5 +159,11 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 - [Mastery & Progression](./docs/systems/mastery_progression.md)
 - [Starting Character Templates](./docs/systems/starting_templates.md)
 - [Asset Pipeline & Store Links](./docs/assets/asset_pipeline_and_store_links.md)
+- [Building & Claims System](./docs/systems/building_and_claims_system.md)
+- [Build Object Templates](./docs/systems/build_object_templates.md)
+- [Claim Profiles](./docs/systems/claim_profiles.md)
+- [Player Settlements](./docs/systems/player_settlements.md)
+- [Building Categories](./docs/systems/building_categories.md)
+- [Race & Class Building Identity](./docs/systems/race_class_building_identity.md)
 
 [Return to README](./README.md)
