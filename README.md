@@ -46,6 +46,13 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 | Systems | [Magic System](./docs/systems/magic_system.md) |
 | Systems | [Naval Travel](./docs/systems/naval_travel.md) |
 | Systems | [Exploration Systems](./docs/systems/exploration_systems.md) |
+| Systems | [Item System](./docs/systems/items_system.md) |
+| Systems | [Crafting System](./docs/systems/items_system.md#crafting-materials) |
+| Systems | [Economy System](./docs/systems/items_system.md#economy--trade) |
+| Systems | [Naval Equipment](./docs/systems/items_system.md#naval-equipment) |
+| Systems | [Relics & Artifacts](./docs/systems/items_system.md#relics--artifacts) |
+| Systems | [Trade Goods](./docs/systems/items_system.md#trade-goods) |
+| Systems | [Leadership & Reputation Systems](./docs/systems/items_system.md#leadership--political-progression) |
 
 ## Documentation Structure
 
@@ -67,5 +74,8 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 - [Magic System](./docs/systems/magic_system.md)
 - [Naval Travel](./docs/systems/naval_travel.md)
 - [Exploration Systems](./docs/systems/exploration_systems.md)
+- [Item System](./docs/systems/items_system.md)
+- [Economy & Trade](./docs/systems/items_system.md#economy--trade)
+- [Leadership & Political Progression](./docs/systems/items_system.md#leadership--political-progression)
 
 [Return to README](./README.md)
