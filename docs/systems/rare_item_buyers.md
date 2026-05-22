@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Mystical Isles Rare Item Buyers
+
+---
 
 # Mystical Isles Rare Item Buyers
-
 ## Purpose
 
 Rare item buyers ensure that item knowledge and travel decisions matter. A rare item sold to a general merchant should feel like a bad decision, while the right specialist buyer should provide major rewards.
@@ -56,17 +60,15 @@ Rare item buyers ensure that item knowledge and travel decisions matter. A rare 
 | Quests | Converts some rare items into quest progression rather than direct currency |
 | Crafting | Routes rare parts into specialist crafting economies |
 
+---
+
 ## Related Documents
 
-- [Merchant System](./merchant_system.md)
-- [Merchant Tables](./merchant_tables.md)
-- [Vendor Locations](./vendor_locations.md)
-- [Black Market Merchants](./black_market_merchants.md)
-- [Faction Vendors](./faction_vendors.md)
-- [Items System](./items_system.md)
-- [Currency System](./currency_system.md)
-- [Quest System](../quests/quest_design.md)
-- [Factions & Reputation](../factions/factions.md)
-- [Economy System](./items_system.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Mystical Isles Black Market Merchants](black_market_merchants.md)
+- Next: [Mystical Isles Faction Vendors](faction_vendors.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🌍 Lore Index](README.md)
+
+**Breadcrumbs:** Home / Lore / True History
+
+---
 
 # True History
-
 ## Setting Summary
 
 Mystical Isles is the aftermath of a technological civilization collapsing under its own dimensional engineering. Modern cultures interpret the remnants through myth, religion, and superstition, but the underlying setting logic is scientific-fantasy rather than purely mystical fantasy.
@@ -118,13 +122,17 @@ Modern inhabitants lack the full scientific context, so they interpret consoles 
 | Safe zones | Areas protected by functioning wards |
 | Monster escalation | Mutation pressure rises near breaches and failed systems |
 
+---
+
 ## Related Documents
-
-- [Player Lore](./player_lore.md)
+- [Mystical Islands — Core Design Vision & World Architecture](../design/core-design-vision-world-architecture.md)
 - [Ancient Technology](../design/ancient_technology.md)
-- [Magic System](../systems/magic_system.md)
-- [Islands Overview](../world/islands_overview.md)
-- [Creatures & Monsters](../world/creatures_and_monsters.md)
-- [Exploration Systems](../systems/exploration_systems.md)
+- [📖 Fractured History](fractured_history.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [📖 Fractured History](fractured_history.md)
+- Next: [🗺 Islands Overview](islands_overview.md)
+
+## Navigation
+- [⬆ Back to 🌍 Lore Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

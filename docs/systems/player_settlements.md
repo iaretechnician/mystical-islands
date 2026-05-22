@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Mystical Isles — Player Settlements
+
+---
 
 # Mystical Isles — Player Settlements
-
 This document covers the design rules for three major settlement types: **City Building**, **Fortresses**, and **Mystical Sites**. Each represents a different scale and function of player-built civilization in the Isles.
 
 ---
@@ -333,17 +337,11 @@ Many islands contain ruined settlements — remnants of pre-Fracturing civilizat
 
 ## Related Documents
 
-- [Building & Claims System](./building_and_claims_system.md)
-- [Build Object Templates](./build_object_templates.md)
-- [Claim Profiles](./claim_profiles.md)
-- [Building Categories](./building_categories.md)
-- [Race & Class Building Identity](./race_class_building_identity.md)
-- [Faction Progression](./faction_progression.md)
-- [Political Systems](./faction_progression.md#political-advancement-and-world-office)
-- [Quest Design](../quests/quest_design.md)
-- [Magic System](./magic_system.md)
-- [Economy System](./items_system.md)
 
----
+## Suggested Reading
+- Previous: [Mystical Isles — Claim Profiles](claim_profiles.md)
+- Next: [Mystical Isles — Race & Class Building Identity](race_class_building_identity.md)
 
-[Return to README](../../README.md)
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

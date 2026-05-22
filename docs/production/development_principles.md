@@ -1,11 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🚧 Production Index](README.md)
 
-# 🧭 Development Principles
-
-**Breadcrumbs:** README → Docs → Production → Development Principles
+**Breadcrumbs:** Home / Production / 🧭 Development Principles
 
 ---
 
+# 🧭 Development Principles
 ## Core Principles
 - gameplay first
 - functionality before polish
@@ -19,4 +19,15 @@
 
 ---
 
-[⬅ Return to README](../../README.md)
+## Related Documents
+- [🧭 Implementation Order](implementation_order.md)
+- [🚧 Production Roadmap](roadmap.md)
+- [Mystical Islands — Core Design Vision & World Architecture](../design/core-design-vision-world-architecture.md)
+
+## Suggested Reading
+- Previous: [🧭 Implementation Order](implementation_order.md)
+- Next: You have reached the end of this section path.
+
+## Navigation
+- [⬆ Back to 🚧 Production Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

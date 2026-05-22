@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
 
-# 📊 Stats System
-
-**Breadcrumbs:** README → Docs → Systems → Stats  
-**Related:** [Damage & Resistances](./damage_and_resistances.md) · [Leveling](./leveling_and_xp.md)
+**Breadcrumbs:** Home / Systems / 📊 Stats System
 
 ---
 
+# 📊 Stats System
 ## Overview
 Stats define survivability, output, utility, and progression scaling.
 
@@ -33,11 +32,13 @@ MVP stat set should remain small: health, resource pool, attack power, defense, 
 
 ---
 
-## Related Systems
-- [Items System](./items_system.md)
-- [Equipment and Slots (legacy)](./equipment_and_slots.md)
+## Related Documents
 
-## Next Reading
-- [Damage & Resistances](./damage_and_resistances.md)
 
-[⬅ Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Abilities & Skill Trees](abilities_and_skill_trees.md)
+- Next: [🛡 Damage and Resistances](damage_and_resistances.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

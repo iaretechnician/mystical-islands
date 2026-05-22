@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🚧 Production Index](README.md)
 
-# 📍 Milestone Plan
-
-**Breadcrumbs:** README → Docs → Production → Milestone Plan  
-**Related:** [Milestones](./milestones.md)
+**Breadcrumbs:** Home / Production / 📍 Milestone Plan
 
 ---
 
+# 📍 Milestone Plan
 ## Planning Principles
 - gameplay first
 - functionality before polish
@@ -18,4 +17,15 @@ Each milestone must end with a playable validation build and documented backlog 
 
 ---
 
-[⬅ Return to README](../../README.md)
+## Related Documents
+- [🗓 Milestones](milestones.md)
+- [🧭 Implementation Order](implementation_order.md)
+- [🚧 Production Roadmap](roadmap.md)
+
+## Suggested Reading
+- Previous: [🗓 Milestones](milestones.md)
+- Next: [🧭 Implementation Order](implementation_order.md)
+
+## Navigation
+- [⬆ Back to 🚧 Production Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

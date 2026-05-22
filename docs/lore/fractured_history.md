@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🌍 Lore Index](README.md)
 
-# 📖 Fractured History
-
-**Breadcrumbs:** README → Docs → Lore → Fractured History  
-**Related:** [True History (Legacy)](./true_history.md) · [World Overview](./world_overview.md)
+**Breadcrumbs:** Home / Lore / 📖 Fractured History
 
 ---
 
+# 📖 Fractured History
 ## Overview
 The Fracturing was a civilization-ending collapse caused by unsafe dimensional energy exploitation.
 
@@ -36,11 +35,14 @@ History explains why relics, wards, portals, and magical anomalies are central t
 ---
 
 ## Related Documents
-- [Developer Vision](./developer_vision.md)
-- [Ancient Technology](../design/ancient_technology.md)
-- [World Events](../systems/world_events.md)
+- [True History](true_history.md)
+- [🏝 World Overview](world_overview.md)
+- [🗺 Islands Overview](islands_overview.md)
 
-## Next Reading
-- [Political System](./political_system.md)
+## Suggested Reading
+- Previous: [🏝 World Overview](world_overview.md)
+- Next: [True History](true_history.md)
 
-[⬅ Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🌍 Lore Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

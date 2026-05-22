@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Item Master List (Atavism X 9)
+
+---
 
 # Item Master List (Atavism X 9)
-
 | Item Name | Type | Subtype | Quality | Slot | Currency | Cost | Sellable | Auction | Stack | Weight | Binding | Effect | Source |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Iron Longsword | Weapon | Sword | Common | Main Hand | Silver | 120 | Yes | Yes | 1 | 4.0 | None | Balanced melee | Kingdom vendors |
@@ -225,4 +229,15 @@
 | Workshop Claim Deed | Quest | Claim Deed | Rare | None | Gold | 140 | No | No | 1 | 0.25 | Bind on Pickup | CreateClaim + crafting object | Crafting progression |
 | Farm Claim Deed | Quest | Claim Deed | Rare | None | Gold | 120 | Yes | No | 1 | 0.22 | Bind on Pickup | CreateClaim + farm object | Settlement economy |
 
-[Return to README](../../README.md)
+---
+
+## Related Documents
+
+
+## Suggested Reading
+- Previous: [Item Types Reference (Atavism X 9)](item_types_reference.md)
+- Next: [Item Effects and Requirements (Atavism X 9)](item_effects_and_requirements.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

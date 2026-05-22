@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Item Types Reference (Atavism X 9)
+
+---
 
 # Item Types Reference (Atavism X 9)
-
 ## Atavism Item Types Used in Mystical Isles
 
 | Item Type | Classification | Gameplay Weight | Notes |
@@ -99,4 +103,15 @@ Restricted trade by design:
 - one-off relic discoveries
 - high-significance legendary discoveries
 
-[Return to README](../../README.md)
+---
+
+## Related Documents
+
+
+## Suggested Reading
+- Previous: [Mystical Isles Items System (Atavism X 9)](items_system.md)
+- Next: [Item Master List (Atavism X 9)](item_master_list.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
 
-# 🚢 Naval System
-
-**Breadcrumbs:** README → Docs → Systems → Naval  
-**Related:** [Exploration](../gameplay/exploration/README.md) · [World Events](./world_events.md)
+**Breadcrumbs:** Home / Systems / 🚢 Naval System
 
 ---
 
+# 🚢 Naval System
 ## Overview
 Naval gameplay governs inter-island travel, route risk, ship progression, and maritime encounters.
 
@@ -33,11 +32,13 @@ MVP includes light naval traversal framing, but not full naval warfare.
 
 ---
 
-## Related Systems
-- [Naval Travel (legacy)](./naval_travel.md)
-- [Islands Overview](../lore/islands_overview.md)
+## Related Documents
 
-## Next Reading
-- [Vertical Slice](../production/vertical_slice.md)
 
-[⬅ Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Magic System](magic_system.md)
+- Next: [Naval Travel](naval_travel.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

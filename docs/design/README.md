@@ -1,32 +1,21 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
 
-# Design Docs Index
+# 🧭 Design Index
 
-Internal design documentation for Mystical Isles.
+This section holds deeper internal design references that tie high-level world architecture, ancient technology, and supporting cross-discipline concepts together.
 
-## Core Internal Documents
+## What This Section Covers
+Use these pages when you need the broader strategic design context that informs lore, systems, and production decisions.
 
-- [Core Design Vision & World Architecture](./core-design-vision-world-architecture.md)
-- [Ancient Technology](./ancient_technology.md)
-- [True History](../lore/true_history.md)
-- [Magic System](../systems/magic_system.md)
-- [Naval Travel](../systems/naval_travel.md)
-- [Exploration Systems](../systems/exploration_systems.md)
+## Included Documents
 
-## Supporting Reference Documents
+### [Mystical Islands — Core Design Vision & World Architecture](core-design-vision-world-architecture.md)
+Mystical Islands is being designed as a persistent online fantasy sandbox RPG centered around:
 
-- [Islands Overview](../world/islands_overview.md)
-- [Factions](../factions/factions.md)
-- [Quest Design](../quests/quest_design.md)
-- [Artifacts & Objects](../quests/artifacts_and_objects.md)
-- [Creatures & Monsters](../world/creatures_and_monsters.md)
+### [Ancient Technology](ancient_technology.md)
+Ancient technology is the physical evidence that Mystical Isles was once supported by advanced infrastructure rather than purely magical civilization.
 
-## Related Documents
+---
 
-- [README](../../README.md)
-- [Player Lore](../lore/player_lore.md)
-- [True History](../lore/true_history.md)
-- [Ancient Technology](./ancient_technology.md)
-- [Core Design Vision & World Architecture](./core-design-vision-world-architecture.md)
-
-[Return to README](../../README.md)
+## Navigation
+- [⬅ Back to Mystical Isles README](../../README.md)

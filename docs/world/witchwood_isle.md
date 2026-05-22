@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🏝 World Index](README.md)
 
-# 🧙 Witchwood Isle
-
-**Breadcrumbs:** README → Docs → World → Witchwood Isle  
-**Related:** [Magic](../systems/magic_system.md) · [Factions](../lore/factions_overview.md)
+**Breadcrumbs:** Home / World / 🧙 Witchwood Isle
 
 ---
 
+# 🧙 Witchwood Isle
 ## Overview
 Dense ritual forests and anomaly-touched groves controlled by competing mystical factions.
 
@@ -30,9 +29,14 @@ Early references in MVP, full zone post-vertical-slice.
 ---
 
 ## Related Documents
-- [Fractured History](../lore/fractured_history.md)
+- [🏴 Factions Overview](../lore/factions_overview.md)
+- [Magic System](../systems/magic_system.md)
+- [🏴‍☠ Shattered Reefs](shattered_reefs.md)
 
-## Next Reading
-- [World Events](../systems/world_events.md)
+## Suggested Reading
+- Previous: [❄ Frostpeak Isle](frostpeak_isle.md)
+- Next: [🏴‍☠ Shattered Reefs](shattered_reefs.md)
 
-[⬅ Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🏝 World Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

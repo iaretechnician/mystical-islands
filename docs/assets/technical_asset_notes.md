@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🎨 Assets Index](README.md)
 
-# ⚙ Technical Asset Notes
-
-**Breadcrumbs:** README → Docs → Assets → Technical Notes  
-**Related:** [Prefab Standards](../technical/prefab_standards.md)
+**Breadcrumbs:** Home / Assets / ⚙ Technical Asset Notes
 
 ---
 
+# ⚙ Technical Asset Notes
 ## Overview
 Defines import, optimization, and prefab integration notes for gameplay-ready assets.
 
@@ -20,4 +19,15 @@ Defines import, optimization, and prefab integration notes for gameplay-ready as
 
 ---
 
-[⬅ Return to README](../../README.md)
+## Related Documents
+- [🧱 Prefab Standards](../technical/prefab_standards.md)
+- [🛠 Unity Setup](../technical/unity_setup.md)
+- [🧰 Asset Usage Standards](asset_usage.md)
+
+## Suggested Reading
+- Previous: [Asset Pipeline & Production Tools](asset_pipeline_and_store_links.md)
+- Next: [🖌 Art Style](art_style.md)
+
+## Navigation
+- [⬆ Back to 🎨 Assets Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

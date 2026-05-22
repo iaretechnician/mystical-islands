@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🛠 Technical Index](README.md)
 
-# 🛠 Unity Setup
-
-**Breadcrumbs:** README → Docs → Technical → Unity Setup  
-**Related:** [Atavism Notes](./atavism_notes.md)
+**Breadcrumbs:** Home / Technical / 🛠 Unity Setup
 
 ---
 
+# 🛠 Unity Setup
 ## Overview
 Unity project setup standards for deterministic builds and shared team workflow.
 
@@ -20,4 +19,15 @@ Unity project setup standards for deterministic builds and shared team workflow.
 
 ---
 
-[⬅ Return to README](../../README.md)
+## Related Documents
+- [🖥 Server Setup](server_setup.md)
+- [🧱 Prefab Standards](prefab_standards.md)
+- [⚙ Technical Asset Notes](../assets/technical_asset_notes.md)
+
+## Suggested Reading
+- Previous: [🧩 Atavism Notes](atavism_notes.md)
+- Next: [🖥 Server Setup](server_setup.md)
+
+## Navigation
+- [⬆ Back to 🛠 Technical Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

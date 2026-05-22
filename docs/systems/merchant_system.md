@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Mystical Isles Merchant System (Atavism X 9)
+
+---
 
 # Mystical Isles Merchant System (Atavism X 9)
-
 ## System Purpose
 
 The merchant system is a major gameplay pillar for Mystical Isles. Merchants are designed to support exploration, economy circulation, crafting pipelines, faction progression, naval gameplay, and rare item discovery.
@@ -133,17 +137,15 @@ Player shop systems may use:
 - [Black Market Merchants](./black_market_merchants.md)
 - [Faction Vendors](./faction_vendors.md)
 
+---
+
 ## Related Documents
 
-- [Items System](./items_system.md)
-- [Currency System](./currency_system.md)
-- [Quest System](../quests/quest_design.md)
-- [Factions & Reputation](../factions/factions.md)
-- [Mob/NPC System](../world/creatures_and_monsters.md)
-- [Player Shops](./merchant_system.md#player-shop-merchants)
-- [Crafting System](./skills_system.md#crafting-skills)
-- [Economy System](./items_system.md)
-- [Naval Systems](./naval_travel.md)
-- [Building & Claims](./building_and_claims_system.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Equipment and Slots (Atavism X 9)](equipment_and_slots.md)
+- Next: [Mystical Isles Merchant Tables (Atavism X 9)](merchant_tables.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

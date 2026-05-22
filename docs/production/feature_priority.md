@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🚧 Production Index](README.md)
 
-# 📌 Feature Priority
-
-**Breadcrumbs:** README → Docs → Production → Feature Priority  
-**Related:** [Implementation Order](./implementation_order.md)
+**Breadcrumbs:** Home / Production / 📌 Feature Priority
 
 ---
 
+# 📌 Feature Priority
 ## Priority Bands
 | Priority | Definition | Examples |
 | --- | --- | --- |
@@ -23,4 +22,15 @@
 
 ---
 
-[⬅ Return to README](../../README.md)
+## Related Documents
+- [🧭 Implementation Order](implementation_order.md)
+- [🗓 Milestones](milestones.md)
+- [🚧 Production Roadmap](roadmap.md)
+
+## Suggested Reading
+- Previous: [🧪 Vertical Slice Plan](vertical_slice.md)
+- Next: [🗓 Milestones](milestones.md)
+
+## Navigation
+- [⬆ Back to 🚧 Production Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Mastery & Progression
+
+---
 
 # Mastery & Progression
-
 ## Overview
 
 Mastery is the system through which players evolve from capable adventurers into legendary figures recognized across the Isles. It is not a stat system. It is a world-reputation system expressed through skill depth, specialization identity, political influence, and the marks a player leaves on the world around them.
@@ -244,4 +248,13 @@ This is what replaces the traditional endgame. A player who has been in Mystical
 
 ---
 
-[Return to README](../../README.md)
+## Related Documents
+
+
+## Suggested Reading
+- Previous: [Leveling & XP](leveling_and_xp.md)
+- Next: [Abilities System](abilities_system.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

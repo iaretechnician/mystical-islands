@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 📜 Quest Design Index](README.md)
+
+**Breadcrumbs:** Home / Quest Design / Quest Design
+
+---
 
 # Quest Design
-
 ## Quest Philosophy
 
 Quest content in Mystical Isles should drive players outward into the world rather than trapping them in hub-only task loops.
@@ -104,13 +108,17 @@ Exploration should provide multiple layers of value:
 - tie rewards to artifact recovery, ward activation, and story escalation
 - create repeatable late-game loops through rotating relic leads and anomaly zones
 
+---
+
 ## Related Documents
+- [Artifacts & Objects](artifacts_and_objects.md)
+- [📜 Gameplay Track: Quests](../gameplay/quests/README.md)
+- [🧭 Gameplay Track: Exploration](../gameplay/exploration/README.md)
 
-- [Artifacts & Objects](./artifacts_and_objects.md)
-- [Islands Overview](../world/islands_overview.md)
-- [Factions](../factions/factions.md)
-- [Ancient Technology](../design/ancient_technology.md)
-- [Naval Travel](../systems/naval_travel.md)
-- [Exploration Systems](../systems/exploration_systems.md)
+## Suggested Reading
+- Previous: Start with this page.
+- Next: [Artifacts & Objects](artifacts_and_objects.md)
 
-[Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 📜 Quest Design Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

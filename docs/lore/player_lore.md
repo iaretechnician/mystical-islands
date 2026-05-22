@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🌍 Lore Index](README.md)
+
+**Breadcrumbs:** Home / Lore / Player Lore
+
+---
 
 # Player Lore
-
 ## The Shattered Crown Isles
 
 Sailors still call the archipelago the **Shattered Crown Isles**, though no two charts agree on where the old crown truly fell. Some say the islands were once the peaks of a single empire. Others whisper that the sea swallowed a kingdom in one terrible night and left only broken stones, haunted lights, and half-remembered names behind.
@@ -74,13 +78,17 @@ To an adventurer, the archipelago offers more than danger.
 
 Every voyage begins with a map, a crew, and a rumor. The brave call that opportunity. The cautious call it the first line of an epitaph.
 
+---
+
 ## Related Documents
-
-- [True History](./true_history.md)
-- [Islands Overview](../world/islands_overview.md)
-- [Factions](../factions/factions.md)
+- [🏝 World Overview](world_overview.md)
 - [Quest Design](../quests/quest_design.md)
-- [Creatures & Monsters](../world/creatures_and_monsters.md)
-- [Naval Travel](../systems/naval_travel.md)
+- [🧭 Gameplay Track: Exploration](../gameplay/exploration/README.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [🧬 Races and Classes Overview](races_and_classes.md)
+- Next: [📜 Developer Vision](developer_vision.md)
+
+## Navigation
+- [⬆ Back to 🌍 Lore Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🌍 Lore Index](README.md)
 
-# 🏝 World Overview
-
-**Breadcrumbs:** README → Docs → Lore → World Overview  
-**Related:** [Fractured History](./fractured_history.md) · [Islands Overview](./islands_overview.md) · [Factions Overview](./factions_overview.md)
+**Breadcrumbs:** Home / Lore / 🏝 World Overview
 
 ---
 
+# 🏝 World Overview
 ## Overview
 Mystical Isles is a fractured archipelago where old-world technology, magical mutation, and frontier civilization collide.
 
@@ -36,12 +35,14 @@ The world supports exploration-led progression: players unlock routes, discover 
 ---
 
 ## Related Documents
-- [Fractured History](./fractured_history.md)
-- [Mainland Region](../world/mainland.md)
-- [Roadmap](../production/roadmap.md)
+- [📖 Fractured History](fractured_history.md)
+- [Islands Overview](../world/islands_overview.md)
+- [📜 Developer Vision](developer_vision.md)
 
-## Next Reading
-- [Islands Overview](./islands_overview.md)
-- [Developer Vision](./developer_vision.md)
+## Suggested Reading
+- Previous: Start with this page.
+- Next: [📖 Fractured History](fractured_history.md)
 
-[⬅ Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🌍 Lore Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

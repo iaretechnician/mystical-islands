@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
 
-# 🛠 Crafting System
-
-**Breadcrumbs:** README → Docs → Systems → Crafting  
-**Related:** [Items](./items_system.md) · [Skills](./skills_system.md)
+**Breadcrumbs:** Home / Systems / 🛠 Crafting System
 
 ---
 
+# 🛠 Crafting System
 ## Overview
 Crafting transforms gathered resources into player power, market flow, and settlement utility.
 
@@ -33,11 +32,13 @@ MVP includes core loops: basic weapon/armor repair, consumables, and simple prof
 
 ---
 
-## Related Systems
-- [Building & Claims](./building_and_claims_system.md)
-- [Player Settlements](./player_settlements.md)
+## Related Documents
 
-## Next Reading
-- [MVP Scope](../production/mvp_scope.md)
 
-[⬅ Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Mystical Isles Vendor Locations](vendor_locations.md)
+- Next: [📈 Economy System](economy_system.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Skills System
+
+---
 
 # Skills System
-
 ## Overview
 
 The Skill System is the single most important progression framework in Mystical Isles. It is not a combat ladder. It is the mechanism through which players build identity, earn social standing, unlock world access, and become recognizable figures in the politics and history of the Isles.
@@ -339,4 +343,13 @@ Skills are not a mechanical grind system. They are a long-term journal of what t
 
 ---
 
-[Return to README](../../README.md)
+## Related Documents
+
+
+## Suggested Reading
+- Previous: Start with this page.
+- Next: [Skills & Progression](skills_and_progression.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

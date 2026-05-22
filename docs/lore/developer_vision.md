@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🌍 Lore Index](README.md)
 
-# 📜 Developer Vision
-
-**Breadcrumbs:** README → Docs → Lore → Developer Vision  
-**Related:** [World Overview](./world_overview.md) · [Fractured History](./fractured_history.md) · [Roadmap](../production/roadmap.md)
+**Breadcrumbs:** Home / Lore / 📜 Developer Vision
 
 ---
 
+# 📜 Developer Vision
 ## 🌌 Inspiration
 Mystical Isles is inspired by classic MMORPG eras where community, danger, and discovery mattered more than checklist speed. The core goal is to rebuild that feeling with modern production discipline.
 
@@ -41,12 +40,14 @@ Start with a playable core loop, prove fun early, and scale toward deeper politi
 ---
 
 ## Related Documents
-- [World Overview](./world_overview.md)
-- [Political System](./political_system.md)
-- [MVP Scope](../production/mvp_scope.md)
+- [Mystical Islands — Core Design Vision & World Architecture](../design/core-design-vision-world-architecture.md)
+- [🚧 Production Roadmap](../production/roadmap.md)
+- [✅ MVP Scope — Minimum Playable MMORPG](../production/mvp_scope.md)
 
-## Next Reading
-- [Vertical Slice](../production/vertical_slice.md)
-- [Feature Priority](../production/feature_priority.md)
+## Suggested Reading
+- Previous: [Player Lore](player_lore.md)
+- Next: You have reached the end of this section path.
 
-[⬅ Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🌍 Lore Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
 
-# 📈 Economy System
-
-**Breadcrumbs:** README → Docs → Systems → Economy  
-**Related:** [Currency](./currency_system.md) · [Merchant](./merchant_system.md) · [Crafting](./crafting_system.md)
+**Breadcrumbs:** Home / Systems / 📈 Economy System
 
 ---
 
+# 📈 Economy System
 ## Overview
 The economy links combat rewards, gathering output, crafted goods, and faction demand into a coherent progression loop.
 
@@ -33,11 +32,13 @@ MVP economy focuses on predictable local loops in one city + nearby exploration 
 
 ---
 
-## Related Systems
-- [Rare Item Buyers](./rare_item_buyers.md)
-- [Vendor Locations](./vendor_locations.md)
+## Related Documents
 
-## Next Reading
-- [Roadmap](../production/roadmap.md)
 
-[⬅ Return to README](../../README.md)
+## Suggested Reading
+- Previous: [🛠 Crafting System](crafting_system.md)
+- Next: [Mystical Isles — Building & Claims System](building_and_claims_system.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

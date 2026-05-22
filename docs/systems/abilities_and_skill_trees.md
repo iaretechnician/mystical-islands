@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Abilities & Skill Trees
+
+---
 
 # Abilities & Skill Trees
-
 ## Overview
 
 This document defines the branching specialization trees available to each class and racial specialization in Mystical Isles. Ability trees are the mechanism through which players define their identity beyond their race and class — choosing not just *what* they do, but *how* they do it, and what role they occupy in the world.
@@ -668,12 +672,11 @@ Some ability combinations across different trees create enhanced effects. These 
 
 ## Related Documents
 
-- [Races & Classes](./races_and_classes.md)
-- [Skills & Progression](./skills_and_progression.md)
-- [Factions](../factions/factions.md)
-- [Magic System](./magic_system.md)
-- [Naval Travel](./naval_travel.md)
-- [Exploration Systems](./exploration_systems.md)
-- [Item System](./items_system.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Abilities System](abilities_system.md)
+- Next: [📊 Stats System](stats_system.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Mystical Isles Merchant Tables (Atavism X 9)
+
+---
 
 # Mystical Isles Merchant Tables (Atavism X 9)
-
 ## Atavism Merchant Table Overview
 
 Atavism Merchant Tables define what items each merchant sells and how stock behaves over time.
@@ -132,20 +136,15 @@ Atavism Merchant Tables define what items each merchant sells and how stock beha
 | Spark Rod | 3 | 3600 |
 | Portal Stabilizer Parts | 1 | 21600 |
 
+---
+
 ## Related Documents
 
-- [Merchant System](./merchant_system.md)
-- [Rare Item Buyers](./rare_item_buyers.md)
-- [Vendor Locations](./vendor_locations.md)
-- [Black Market Merchants](./black_market_merchants.md)
-- [Faction Vendors](./faction_vendors.md)
-- [Items System](./items_system.md)
-- [Currency System](./currency_system.md)
-- [Quest System](../quests/quest_design.md)
-- [Factions & Reputation](../factions/factions.md)
-- [Crafting System](./skills_system.md#crafting-skills)
-- [Economy System](./items_system.md)
-- [Naval Systems](./naval_travel.md)
-- [Building & Claims](./building_and_claims_system.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Mystical Isles Merchant System (Atavism X 9)](merchant_system.md)
+- Next: [Mystical Isles Black Market Merchants](black_market_merchants.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

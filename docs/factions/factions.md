@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🏴 Factions Index](README.md)
+
+**Breadcrumbs:** Home / Factions / Factions
+
+---
 
 # Factions
-
 ## Faction Design Role
 
 Factions turn exploration into politics. They give context to territorial conflict, expedition funding, relic recovery, trade protection, and the competing interpretations of the world's past.
@@ -53,14 +57,17 @@ The two factions operate under an unspoken territorial division: Corsairs own th
 ### Stormreach Isles: Tempest Accord
 The Tempest Accord is an expedition coalition rather than a traditional nation. It combines scholars, ward technicians, navigators, mercenary escorts, and high-risk financiers who understand that Stormreach can either save civilization or destroy what remains of it.
 
+---
+
 ## Related Documents
+- [🏴 Factions Overview](../lore/factions_overview.md)
+- [🏰 Political System](../lore/political_system.md)
+- [🏰 Gameplay Track: Politics](../gameplay/politics/README.md)
 
-- [Player Lore](../lore/player_lore.md)
-- [True History](../lore/true_history.md)
-- [Islands Overview](../world/islands_overview.md)
-- [Quest Design](../quests/quest_design.md)
-- [Artifacts & Objects](../quests/artifacts_and_objects.md)
-- [Naval Travel](../systems/naval_travel.md)
-- [Asset Pipeline & Store Links](../assets/asset_pipeline_and_store_links.md)
+## Suggested Reading
+- Previous: Start with this page.
+- Next: You have reached the end of this section path.
 
-[Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🏴 Factions Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Abilities System
+
+---
 
 # Abilities System
-
 ## Overview
 
 Abilities are the active and passive expressions of a player's skill investment. Where skills define *what a player has learned*, abilities define *what a player can do*. Every ability is unlocked through a specific skill at a specific level threshold. Abilities apply effects. Effects change gameplay.
@@ -394,4 +398,13 @@ Each ability in Atavism X 9 has the following definition fields:
 
 ---
 
-[Return to README](../../README.md)
+## Related Documents
+
+
+## Suggested Reading
+- Previous: [Mastery & Progression](mastery_progression.md)
+- Next: [Abilities & Skill Trees](abilities_and_skill_trees.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

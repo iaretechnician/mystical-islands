@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🎨 Assets Index](README.md)
 
-# 📦 Asset List
-
-**Breadcrumbs:** README → Docs → Assets → Asset List  
-**Related:** [Asset Usage](./asset_usage.md) · [Technical Asset Notes](./technical_asset_notes.md)
+**Breadcrumbs:** Home / Assets / 📦 Asset List
 
 ---
 
+# 📦 Asset List
 ## Overview
 Core production assets include Atavism X 9, SYNTY ecosystem packs, Gaia/GeNa, World Streamer, and supporting technical middleware.
 
@@ -19,6 +18,14 @@ Asset selection supports rapid iteration, visual cohesion, and scalable content 
 ---
 
 ## Related Documents
-- [Asset Pipeline Legacy Reference](./asset_pipeline_and_store_links.md)
+- [🧰 Asset Usage Standards](asset_usage.md)
+- [⚙ Technical Asset Notes](technical_asset_notes.md)
+- [🖌 Art Style](art_style.md)
 
-[⬅ Return to README](../../README.md)
+## Suggested Reading
+- Previous: Start with this page.
+- Next: [🧰 Asset Usage Standards](asset_usage.md)
+
+## Navigation
+- [⬆ Back to 🎨 Assets Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

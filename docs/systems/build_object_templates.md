@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Mystical Isles — Build Object Templates
+
+---
 
 # Mystical Isles — Build Object Templates
-
 This document provides detailed Atavism-ready build object template configurations for key structures in Mystical Isles. Each template can be entered directly into the Atavism Editor Build Object section.
 
 ---
@@ -1019,15 +1023,11 @@ Stage 1 — Complete Throne
 
 ## Related Documents
 
-- [Building & Claims System](./building_and_claims_system.md)
-- [Claim Profiles](./claim_profiles.md)
-- [Building Categories](./building_categories.md)
-- [Player Settlements](./player_settlements.md)
-- [Race & Class Building Identity](./race_class_building_identity.md)
-- [Skills System](./skills_system.md)
-- [Items System](./items_system.md)
-- [Effects System](./effects_system.md)
 
----
+## Suggested Reading
+- Previous: [Mystical Isles — Building Categories](building_categories.md)
+- Next: [Mystical Isles — Claim Profiles](claim_profiles.md)
 
-[Return to README](../../README.md)
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

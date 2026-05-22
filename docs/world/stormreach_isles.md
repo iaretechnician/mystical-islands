@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🏝 World Index](README.md)
 
-# ⛈ Stormreach Isles
-
-**Breadcrumbs:** README → Docs → World → Stormreach Isles  
-**Related:** [Naval](../systems/naval_system.md) · [Technical Notes](../technical/server_setup.md)
+**Breadcrumbs:** Home / World / ⛈ Stormreach Isles
 
 ---
 
+# ⛈ Stormreach Isles
 ## Overview
 An anomaly-heavy frontier of extreme weather and unstable dimensional phenomena.
 
@@ -30,9 +29,14 @@ Deferred until post-MVP and post-core world expansion.
 ---
 
 ## Related Documents
-- [Roadmap](../production/roadmap.md)
+- [Ancient Technology](../design/ancient_technology.md)
+- [📜 World Events System](../systems/world_events.md)
+- [Creatures & Monsters](creatures_and_monsters.md)
 
-## Next Reading
-- [Milestone Plan](../production/milestone_plan.md)
+## Suggested Reading
+- Previous: [☠ Ashen Deadlands](ashen_deadlands.md)
+- Next: [Creatures & Monsters](creatures_and_monsters.md)
 
-[⬅ Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🏝 World Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

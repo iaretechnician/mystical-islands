@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Damage Types & Resistances
+
+---
 
 # Damage Types & Resistances
-
 This document defines the complete Mystical Isles damage, resistance, power, accuracy, evasion, critical, and mitigation model for Atavism X 9 configuration.
 
 ---
@@ -698,8 +702,17 @@ Reusable power stats for Atavism-compatible scaling:
 
 - Parry chance compares defender **parry capability** against attacker accuracy.  
 - Level difference shifts parry reliability.  
-- Successful parry reduces final damage to **60%** of the pre-parry result.  
+- Successful parry reduces final damage to **60%** of the pre-parry result.
 
 ---
 
-[Return to README](../../README.md)
+## Related Documents
+
+
+## Suggested Reading
+- Previous: [🛡 Damage and Resistances](damage_and_resistances.md)
+- Next: [Effects System](effects_system.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

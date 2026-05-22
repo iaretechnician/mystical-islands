@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Currency System
+
+---
 
 # Currency System
-
 ## Purpose
 
 This document defines the production-ready Mystical Isles currency setup using the Atavism X 9 Currency Plugin structure for creation, grouping, conversion, UI display, and gameplay usage.
@@ -226,13 +230,11 @@ Use auto-conversion only in true denomination systems.
 
 ## Related Documents
 
-- [Items System](./items_system.md)
-- [Quest System](../quests/quest_design.md)
-- [Merchant System](./items_system.md#economic-pillars)
-- [Factions & Reputation](./titles_and_reputation.md)
-- [Economy System](./items_system.md#economic-pillars)
-- [Naval Systems](./naval_travel.md)
-- [Political Progression](./faction_progression.md#political-advancement-and-world-office)
-- [Crafting System](./skills_system.md#crafting-skills)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Effects System](effects_system.md)
+- Next: [Mystical Isles Items System (Atavism X 9)](items_system.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

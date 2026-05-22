@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Naval Travel
+
+---
 
 # Naval Travel
-
 ## System Role
 
 Naval travel is the connective tissue of Mystical Isles. Seas are not empty loading space; they are contested, hazardous, and progression-defining gameplay surfaces.
@@ -38,13 +42,15 @@ Naval travel is the connective tissue of Mystical Isles. Seas are not empty load
 - sea monsters, storms, and broken gateways explain why travel remains dangerous despite civilization
 - late-game regions should feel inaccessible without meaningful ship and crew investment
 
+---
+
 ## Related Documents
 
-- [Islands Overview](../world/islands_overview.md)
-- [Factions](../factions/factions.md)
-- [Quest Design](../quests/quest_design.md)
-- [Artifacts & Objects](../quests/artifacts_and_objects.md)
-- [Ancient Technology](../design/ancient_technology.md)
-- [Exploration Systems](./exploration_systems.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [🚢 Naval System](naval_system.md)
+- Next: [📜 World Events System](world_events.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

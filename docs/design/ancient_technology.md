@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🧭 Design Index](README.md)
+
+**Breadcrumbs:** Home / Design / Ancient Technology
+
+---
 
 # Ancient Technology
-
 ## Internal Framing
 
 Ancient technology is the physical evidence that Mystical Isles was once supported by advanced infrastructure rather than purely magical civilization. Presentation to players can remain mysterious, but internal design should treat these systems consistently.
@@ -43,13 +47,17 @@ Portal remnants and navigation relics provide a technology bridge between lore a
 - faction conflict over who controls ancient facilities after reactivation
 - environmental storytelling through damaged machines and partial logs
 
+---
+
 ## Related Documents
-
 - [True History](../lore/true_history.md)
-- [Core Design Vision & World Architecture](./core-design-vision-world-architecture.md)
-- [Artifacts & Objects](../quests/artifacts_and_objects.md)
-- [Magic System](../systems/magic_system.md)
-- [Naval Travel](../systems/naval_travel.md)
-- [Exploration Systems](../systems/exploration_systems.md)
+- [Mystical Islands — Core Design Vision & World Architecture](core-design-vision-world-architecture.md)
+- [⛈ Stormreach Isles](../world/stormreach_isles.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Mystical Islands — Core Design Vision & World Architecture](core-design-vision-world-architecture.md)
+- Next: You have reached the end of this section path.
+
+## Navigation
+- [⬆ Back to 🧭 Design Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

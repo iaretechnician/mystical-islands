@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Mystical Isles Vendor Locations
+
+---
 
 # Mystical Isles Vendor Locations
-
 ## Location Design Rules
 
 Vendor placement is used to reinforce travel, faction identity, and regional economy value.
@@ -97,15 +101,15 @@ Vendor placement is used to reinforce travel, faction identity, and regional eco
 | Support naval gameplay | Port clusters sustain ship progression and expedition loops |
 | Maintain faction identity | Faction capitals host gated reputation vendors |
 
+---
+
 ## Related Documents
 
-- [Merchant System](./merchant_system.md)
-- [Merchant Tables](./merchant_tables.md)
-- [Rare Item Buyers](./rare_item_buyers.md)
-- [Black Market Merchants](./black_market_merchants.md)
-- [Faction Vendors](./faction_vendors.md)
-- [Naval Systems](./naval_travel.md)
-- [Economy System](./items_system.md)
-- [Building & Claims](./building_and_claims_system.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Mystical Isles Faction Vendors](faction_vendors.md)
+- Next: [🛠 Crafting System](crafting_system.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

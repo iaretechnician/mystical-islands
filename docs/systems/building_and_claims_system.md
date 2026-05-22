@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Mystical Isles — Building & Claims System
+
+---
 
 # Mystical Isles — Building & Claims System
-
 Player construction is one of the defining systems of Mystical Isles. Players are not only adventurers — they are builders, settlers, faction leaders, and world-shapers. Every island can be transformed by the players who claim it.
 
 ---
@@ -452,21 +456,11 @@ The goal is a living world where players physically build the future of the Isle
 
 ## Related Documents
 
-- [Build Object Templates](./build_object_templates.md)
-- [Claim Profiles](./claim_profiles.md)
-- [Player Settlements](./player_settlements.md)
-- [Building Categories](./building_categories.md)
-- [Race & Class Building Identity](./race_class_building_identity.md)
-- [Skills System](./skills_system.md)
-- [Items System](./items_system.md)
-- [Item Effects & Requirements](./item_effects_and_requirements.md)
-- [Crafting Systems](./skills_system.md#crafting-skills)
-- [Economy System](./items_system.md)
-- [Factions & Reputation](./faction_progression.md)
-- [Political Systems](./faction_progression.md#political-advancement-and-world-office)
-- [Naval Systems](./naval_travel.md)
-- [Mob/NPC System](./items_system.md)
 
----
+## Suggested Reading
+- Previous: [📈 Economy System](economy_system.md)
+- Next: [Mystical Isles — Building Categories](building_categories.md)
 
-[Return to README](../../README.md)
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)
