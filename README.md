@@ -54,6 +54,7 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 | Systems | [Item System](./docs/systems/items_system.md) |
 | Systems | [Crafting System](./docs/systems/items_system.md#crafting-materials) |
 | Systems | [Economy System](./docs/systems/items_system.md#economy--trade) |
+| Systems | [Currency System](./docs/systems/currency_system.md) |
 | Systems | [Naval Equipment](./docs/systems/items_system.md#naval-equipment) |
 | Systems | [Relics & Artifacts](./docs/systems/items_system.md#relics--artifacts) |
 | Systems | [Trade Goods](./docs/systems/items_system.md#trade-goods) |
@@ -122,6 +123,7 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 - [Exploration Systems](./docs/systems/exploration_systems.md)
 - [Item System](./docs/systems/items_system.md)
 - [Economy & Trade](./docs/systems/items_system.md#economy--trade)
+- [Currency System](./docs/systems/currency_system.md)
 - [Leadership & Political Progression](./docs/systems/items_system.md#leadership--political-progression)
 - [Races & Classes](./docs/systems/races_and_classes.md)
 - [Damage Types & Resistances](./docs/systems/damage_types_and_resistances.md)
