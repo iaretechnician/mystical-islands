@@ -101,9 +101,9 @@ Characters and mobs must include:
 | Ancient Surveyor Helm | Armor | Head | Epic | Ancient Cores | 105 | Bind on Pickup | 84 | 3.1 | +Relic scan range |
 | Relic Explorer Coat | Armor | Chest | Epic | Ancient Cores | 125 | Bind on Pickup | 90 | 4.7 | +Artifact protection |
 | Portal Stabilizer Harness | Armor | Waist | Legendary | Ancient Cores | 180 | Bind on Pickup | 100 | 3.5 | +Portal stability |
-| Hollow Veil Plate | Armor | Chest | Corrupted | Veil Shards | 340 | Bind onPickup | 115 | 8.2 | +Corruption armor, health drain |
-| Cursed Bone Helm | Armor | Head | Corrupted | Veil Shards | 210 | Bind onPickup | 82 | 3.9 | +Fear aura |
-| Tainted Wraps | Armor | Hands | Corrupted | Veil Shards | 170 | Bind onPickup | 68 | 2.1 | +Hex throughput |
+| Hollow Veil Plate | Armor | Chest | Corrupted | Veil Shards | 340 | Bind on Pickup | 115 | 8.2 | +Corruption armor, health drain |
+| Cursed Bone Helm | Armor | Head | Corrupted | Veil Shards | 210 | Bind on Pickup | 82 | 3.9 | +Fear aura |
+| Tainted Wraps | Armor | Hands | Corrupted | Veil Shards | 170 | Bind on Pickup | 68 | 2.1 | +Hex throughput |
 
 ## Tool Items
 
