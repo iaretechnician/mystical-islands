@@ -124,6 +124,7 @@ Mystical Isles is built as a long-term social sandbox where systems interlock, w
 
 ## 🎮 Gameplay
 - [Section Index](docs/gameplay/README.md)
+- [📘 Bestiary](docs/gameplay/bestiary/README.md)
 - [📈 Gameplay Track: Progression](docs/gameplay/progression/README.md)
 - [📜 Gameplay Track: Quests](docs/gameplay/quests/README.md)
 - [🛡 Gameplay Track: PvE](docs/gameplay/pve/README.md)
@@ -132,6 +133,21 @@ Mystical Isles is built as a long-term social sandbox where systems interlock, w
 - [🧭 Gameplay Track: Exploration](docs/gameplay/exploration/README.md)
 - [🏰 Gameplay Track: Politics](docs/gameplay/politics/README.md)
 - [🐉 Gameplay Track: Mobs](docs/gameplay/mobs/README.md)
+
+## 🐉 Creatures & NPCs
+- [Bestiary](docs/gameplay/bestiary/README.md)
+- [Humanoids](docs/gameplay/bestiary/humanoids.md)
+- [Beasts](docs/gameplay/bestiary/beasts.md)
+- [Dragons](docs/gameplay/bestiary/dragons.md)
+- [Demons](docs/gameplay/bestiary/demons.md)
+- [Undead](docs/gameplay/bestiary/undead.md)
+- [Sea Creatures](docs/gameplay/bestiary/sea_creatures.md)
+- [Veil Corrupted](docs/gameplay/bestiary/veil_corrupted.md)
+- [World Bosses](docs/gameplay/bestiary/world_bosses.md)
+- [Creature Progression](docs/gameplay/bestiary/creature_progression.md)
+- [NPC Factions](docs/factions/factions.md)
+- [Merchants](docs/systems/merchant_system.md)
+- [Quest NPCs](docs/gameplay/quests/README.md)
 
 ## 🎨 Assets
 - [Section Index](docs/assets/README.md)
