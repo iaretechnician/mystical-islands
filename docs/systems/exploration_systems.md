@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Exploration Systems
+
+---
 
 # Exploration Systems
-
 ## Exploration Role
 
 Exploration is a primary progression pillar. Players should advance not only by combat strength, but by learning routes, identifying landmarks, understanding faction territory, and unlocking access to places others cannot reliably reach.
@@ -33,13 +37,15 @@ Exploration is a primary progression pillar. Players should advance not only by 
 - use exploration to seed story, economy, and social cooperation
 - make danger readable without making the world feel predictable
 
+---
+
 ## Related Documents
 
-- [Islands Overview](../world/islands_overview.md)
-- [Quest Design](../quests/quest_design.md)
-- [Artifacts & Objects](../quests/artifacts_and_objects.md)
-- [Ancient Technology](../design/ancient_technology.md)
-- [Magic System](./magic_system.md)
-- [Naval Travel](./naval_travel.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [📜 World Events System](world_events.md)
+- Next: [Reward Profiles](reward_profiles.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

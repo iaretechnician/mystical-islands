@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Player Ranks
+
+---
 
 # Player Ranks
-
 ## Rank Philosophy
 
 Player ranks are social and world recognition systems. They are not direct power scaling.
@@ -75,4 +79,15 @@ Leadership offices are not permanent. They can be challenged and replaced.
 | Multi-factor qualification | Stops one-loop progression abuse |
 | Merit + legitimacy tracking | Aligns status with contribution |
 
-[Return to README](../../README.md)
+---
+
+## Related Documents
+
+
+## Suggested Reading
+- Previous: [Faction Progression](faction_progression.md)
+- Next: [Titles & Reputation](titles_and_reputation.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

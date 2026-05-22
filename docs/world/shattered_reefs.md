@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🏝 World Index](README.md)
 
-# 🏴‍☠ Shattered Reefs
-
-**Breadcrumbs:** README → Docs → World → Shattered Reefs  
-**Related:** [Naval System](../systems/naval_system.md) · [Black Market](../systems/black_market_merchants.md)
+**Breadcrumbs:** Home / World / 🏴‍☠ Shattered Reefs
 
 ---
 
+# 🏴‍☠ Shattered Reefs
 ## Overview
 A pirate-fractured maritime region of reefs, hidden coves, and contested smuggling lanes.
 
@@ -30,9 +29,14 @@ Deferred beyond MVP; introduced through lore/events/merchant references.
 ---
 
 ## Related Documents
-- [Currency System](../systems/currency_system.md)
+- [🚢 Naval System](../systems/naval_system.md)
+- [Factions](../factions/factions.md)
+- [☠ Ashen Deadlands](ashen_deadlands.md)
 
-## Next Reading
-- [Roadmap](../production/roadmap.md)
+## Suggested Reading
+- Previous: [🧙 Witchwood Isle](witchwood_isle.md)
+- Next: [☠ Ashen Deadlands](ashen_deadlands.md)
 
-[⬅ Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🏝 World Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

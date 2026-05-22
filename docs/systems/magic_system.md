@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Magic System
+
+---
 
 # Magic System
-
 ## System Identity
 
 Magic should feel mystical to players while remaining internally consistent for design. It is the practical manipulation of post-Fracturing dimensional energy through living adaptation, ritual methods, learned techniques, and specialized relics.
@@ -31,13 +35,15 @@ Magic should feel mystical to players while remaining internally consistent for 
 - corrupted zones can change spell behavior to create regional variety
 - non-casters still engage with magic through relics, gear, wards, and environmental systems
 
+---
+
 ## Related Documents
 
-- [True History](../lore/true_history.md)
-- [Player Lore](../lore/player_lore.md)
-- [Ancient Technology](../design/ancient_technology.md)
-- [Creatures & Monsters](../world/creatures_and_monsters.md)
-- [Quest Design](../quests/quest_design.md)
-- [Exploration Systems](./exploration_systems.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Titles & Reputation](titles_and_reputation.md)
+- Next: [🚢 Naval System](naval_system.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

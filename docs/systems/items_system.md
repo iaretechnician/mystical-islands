@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Mystical Isles Items System (Atavism X 9)
+
+---
 
 # Mystical Isles Items System (Atavism X 9)
-
 This is the master production specification for Mystical Isles items using the Atavism X 9 item model and database fields.
 
 ## Purpose
@@ -81,16 +85,15 @@ Mystical Isles item data is authored as database-ready records with consistent f
 - [Item Effects and Requirements](./item_effects_and_requirements.md)
 - [Item Master List](./item_master_list.md)
 
+---
+
 ## Related Documents
 
-- [Currency System](./currency_system.md)
-- [Quest System](../quests/quest_design.md)
-- [Crafting System](./skills_system.md#crafting-skills)
-- [Skills System](./skills_system.md)
-- [Damage Types & Resistances](./damage_types_and_resistances.md)
-- [Mob Loot & Skinning](../world/creatures_and_monsters.md)
-- [Factions & Reputation](../factions/factions.md)
-- [Naval Systems](./naval_travel.md)
-- [Economy System](./items_system.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Currency System](currency_system.md)
+- Next: [Item Types Reference (Atavism X 9)](item_types_reference.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

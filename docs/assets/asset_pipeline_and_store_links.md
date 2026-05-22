@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🎨 Assets Index](README.md)
+
+**Breadcrumbs:** Home / Assets / Asset Pipeline & Production Tools
+
+---
 
 # Asset Pipeline & Production Tools
-
 > **Internal Production Reference — Mystical Isles Development Wiki**
 >
 > This document serves as the authoritative reference for all third-party assets, middleware, environment systems, art packs, and supporting tools used in the development of Mystical Isles. It functions as a production reference, asset pipeline guide, technical dependency reference, and world-building integration guide.
@@ -1171,23 +1175,14 @@ This section documents planned future expansions and the asset strategy required
 ---
 
 ## Related Documents
+- [⚙ Technical Asset Notes](technical_asset_notes.md)
+- [🛠 Unity Setup](../technical/unity_setup.md)
+- [📦 Asset List](asset_list.md)
 
-| Category | Document |
-| --- | --- |
-| Project Hub | [README](../../README.md) |
-| World | [Islands Overview](../world/islands_overview.md) |
-| World | [Creatures & Monsters](../world/creatures_and_monsters.md) |
-| Factions | [Factions](../factions/factions.md) |
-| Systems | [Naval Travel](../systems/naval_travel.md) |
-| Systems | [Magic System](../systems/magic_system.md) |
-| Systems | [Exploration Systems](../systems/exploration_systems.md) |
-| Systems | [Item System](../systems/items_system.md) |
-| Design | [Core Design Vision](../design/core-design-vision-world-architecture.md) |
-| Design | [Ancient Technology](../design/ancient_technology.md) |
-| Lore | [Player Lore](../lore/player_lore.md) |
-| Lore | [True History](../lore/true_history.md) |
-| Quests | [Quest Design](../quests/quest_design.md) |
+## Suggested Reading
+- Previous: [🧰 Asset Usage Standards](asset_usage.md)
+- Next: [⚙ Technical Asset Notes](technical_asset_notes.md)
 
----
-
-[Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🎨 Assets Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

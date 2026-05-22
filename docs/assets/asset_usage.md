@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🎨 Assets Index](README.md)
 
-# 🧰 Asset Usage Standards
-
-**Breadcrumbs:** README → Docs → Assets → Asset Usage  
-**Related:** [Art Style](./art_style.md) · [UI Icons](./ui_icons.md)
+**Breadcrumbs:** Home / Assets / 🧰 Asset Usage Standards
 
 ---
 
+# 🧰 Asset Usage Standards
 ## Overview
 Use assets to accelerate playable iteration, not to hide missing gameplay.
 
@@ -21,6 +20,14 @@ Use assets to accelerate playable iteration, not to hide missing gameplay.
 ---
 
 ## Related Documents
-- [Technical Asset Notes](./technical_asset_notes.md)
+- [📦 Asset List](asset_list.md)
+- [⚙ Technical Asset Notes](technical_asset_notes.md)
+- [🎨 UI Icons and Documentation Visual Standards](ui_icons.md)
 
-[⬅ Return to README](../../README.md)
+## Suggested Reading
+- Previous: [📦 Asset List](asset_list.md)
+- Next: [Asset Pipeline & Production Tools](asset_pipeline_and_store_links.md)
+
+## Navigation
+- [⬆ Back to 🎨 Assets Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🚧 Production Index](README.md)
 
-# 🧪 Vertical Slice Plan
-
-**Breadcrumbs:** README → Docs → Production → Vertical Slice  
-**Related:** [MVP Scope](./mvp_scope.md) · [Milestones](./milestones.md)
+**Breadcrumbs:** Home / Production / 🧪 Vertical Slice Plan
 
 ---
 
+# 🧪 Vertical Slice Plan
 ## Objective
 Demonstrate a polished end-to-end gameplay segment representing the intended final quality direction.
 
@@ -22,4 +21,15 @@ A new player can complete a memorable 60–90 minute loop and understand the lon
 
 ---
 
-[⬅ Return to README](../../README.md)
+## Related Documents
+- [📌 Feature Priority](feature_priority.md)
+- [✅ MVP Scope — Minimum Playable MMORPG](mvp_scope.md)
+- [🗓 Milestones](milestones.md)
+
+## Suggested Reading
+- Previous: [✅ MVP Scope — Minimum Playable MMORPG](mvp_scope.md)
+- Next: [📌 Feature Priority](feature_priority.md)
+
+## Navigation
+- [⬆ Back to 🚧 Production Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

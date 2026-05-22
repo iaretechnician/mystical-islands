@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Mystical Isles — Claim Profiles
+
+---
 
 # Mystical Isles — Claim Profiles
-
 Claim profiles define the size, upgrade path, and object limits for each claim. Every claim placed in the world — whether by an admin or a player using a Claim Deed — references a profile that determines what can be built inside it and how many objects of each category are allowed.
 
 ---
@@ -262,14 +266,11 @@ Tax rates and intervals are configured per claim in the Atavism Editor.
 
 ## Related Documents
 
-- [Building & Claims System](./building_and_claims_system.md)
-- [Build Object Templates](./build_object_templates.md)
-- [Player Settlements](./player_settlements.md)
-- [Building Categories](./building_categories.md)
-- [Race & Class Building Identity](./race_class_building_identity.md)
-- [Faction Progression](./faction_progression.md)
-- [Economy System](./items_system.md)
 
----
+## Suggested Reading
+- Previous: [Mystical Isles — Build Object Templates](build_object_templates.md)
+- Next: [Mystical Isles — Player Settlements](player_settlements.md)
 
-[Return to README](../../README.md)
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

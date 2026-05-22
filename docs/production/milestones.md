@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🚧 Production Index](README.md)
 
-# 🗓 Milestones
-
-**Breadcrumbs:** README → Docs → Production → Milestones  
-**Related:** [Roadmap](./roadmap.md)
+**Breadcrumbs:** Home / Production / 🗓 Milestones
 
 ---
 
+# 🗓 Milestones
 ## Milestone 1 — Playable Foundation
 Core controls, combat, one city, one dungeon, starter quest arc.
 
@@ -24,4 +23,15 @@ Politics, deeper naval content, larger world events.
 
 ---
 
-[⬅ Return to README](../../README.md)
+## Related Documents
+- [📍 Milestone Plan](milestone_plan.md)
+- [🧭 Implementation Order](implementation_order.md)
+- [🧪 Vertical Slice Plan](vertical_slice.md)
+
+## Suggested Reading
+- Previous: [📌 Feature Priority](feature_priority.md)
+- Next: [📍 Milestone Plan](milestone_plan.md)
+
+## Navigation
+- [⬆ Back to 🚧 Production Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

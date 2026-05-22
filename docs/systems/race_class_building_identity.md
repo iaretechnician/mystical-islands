@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Mystical Isles — Race & Class Building Identity
+
+---
 
 # Mystical Isles — Race & Class Building Identity
-
 Building in Mystical Isles is not generic. Each culture, race, and faction has its own architectural identity, preferred materials, unique structures, and gameplay advantages tied to construction. This document defines the building profile for every culture in the Isles.
 
 ---
@@ -447,16 +451,11 @@ Bonuses do not apply when:
 
 ## Related Documents
 
-- [Building & Claims System](./building_and_claims_system.md)
-- [Build Object Templates](./build_object_templates.md)
-- [Claim Profiles](./claim_profiles.md)
-- [Player Settlements](./player_settlements.md)
-- [Building Categories](./building_categories.md)
-- [Races & Classes](./races_and_classes.md)
-- [Factions](../factions/factions.md)
-- [Skills System](./skills_system.md)
-- [Faction Progression](./faction_progression.md)
 
----
+## Suggested Reading
+- Previous: [Mystical Isles — Player Settlements](player_settlements.md)
+- Next: [Starting Character Templates](starting_templates.md)
 
-[Return to README](../../README.md)
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

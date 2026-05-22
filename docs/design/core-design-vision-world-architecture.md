@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🧭 Design Index](README.md)
+
+**Breadcrumbs:** Home / Design / Mystical Islands — Core Design Vision & World Architecture
+
+---
 
 # Mystical Islands — Core Design Vision & World Architecture
-
 ## Project Overview
 
 Mystical Islands is being designed as a persistent online fantasy sandbox RPG centered around:
@@ -396,16 +400,17 @@ It is intended to feel like:
 
 Players should feel the world existed before them, but changed because of them.
 
-
 ---
 
 ## Related Documents
+- [📜 Developer Vision](../lore/developer_vision.md)
+- [Ancient Technology](ancient_technology.md)
+- [🚧 Production Roadmap](../production/roadmap.md)
 
-- [README](../../README.md)
-- [Design Docs Index](./README.md)
-- [True History](../lore/true_history.md)
-- [Islands Overview](../world/islands_overview.md)
-- [Factions](../factions/factions.md)
-- [Exploration Systems](../systems/exploration_systems.md)
+## Suggested Reading
+- Previous: Start with this page.
+- Next: [Ancient Technology](ancient_technology.md)
 
-[Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🧭 Design Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Starting Character Templates
+
+---
 
 # Starting Character Templates
-
 ## Overview
 
 Starting templates define the complete beginning state for each playable race and class combination in Mystical Isles. Every template specifies the character's race, class, starting region, faction alignment, starting gear, starter abilities, initial stats, profession exposure, and tutorial path.
@@ -368,4 +372,13 @@ Each starting template has a natural long-term identity trajectory. These are no
 
 ---
 
-[Return to README](../../README.md)
+## Related Documents
+
+
+## Suggested Reading
+- Previous: [Mystical Isles — Race & Class Building Identity](race_class_building_identity.md)
+- Next: [Races & Classes](races_and_classes.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

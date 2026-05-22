@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Equipment and Slots (Atavism X 9)
+
+---
 
 # Equipment and Slots (Atavism X 9)
-
 ## Equipment Technical Setup
 
 Characters and mobs must include:
@@ -152,4 +156,15 @@ Characters and mobs must include:
 | Explosive Harpoon | Harpoon | +14 | 80 | 0.12 | Gold | 15 | Epic | Heavy harpoon launchers |
 | Aether Cell | Aether Cell | +12 | 100 | 0.06 | Ancient Cores | 3 | Epic | Arcforge and ancient rifles |
 
-[Return to README](../../README.md)
+---
+
+## Related Documents
+
+
+## Suggested Reading
+- Previous: [Item Effects and Requirements (Atavism X 9)](item_effects_and_requirements.md)
+- Next: [Mystical Isles Merchant System (Atavism X 9)](merchant_system.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Reward Profiles
+
+---
 
 # Reward Profiles
-
 ## Reward Design Philosophy
 
 Rewards should be meaningful, memorable, immersive, and socially visible.
@@ -106,4 +110,15 @@ Rewards should be meaningful, memorable, immersive, and socially visible.
 | Make rewards socially visible | Isolated single-player loops |
 | Preserve horizontal growth after 50 | Pure vertical stat creep |
 
-[Return to README](../../README.md)
+---
+
+## Related Documents
+
+
+## Suggested Reading
+- Previous: [Exploration Systems](exploration_systems.md)
+- Next: You have reached the end of this section path.
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

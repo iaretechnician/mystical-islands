@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🏝 World Index](README.md)
 
-# ❄ Frostpeak Isle
-
-**Breadcrumbs:** README → Docs → World → Frostpeak Isle  
-**Related:** [Crafting](../systems/crafting_system.md) · [Damage Types](../systems/damage_and_resistances.md)
+**Breadcrumbs:** Home / World / ❄ Frostpeak Isle
 
 ---
 
+# ❄ Frostpeak Isle
 ## Overview
 A high-altitude dwarf-dominated region focused on ore wealth, industrial crafting, and cold hazard gameplay.
 
@@ -30,9 +29,14 @@ Not part of MVP playable scope; seeded through quests and economy hooks first.
 ---
 
 ## Related Documents
-- [Mainland](./mainland.md)
+- [🏰 Mainland](mainland.md)
+- [🛠 Crafting System](../systems/crafting_system.md)
+- [🧙 Witchwood Isle](witchwood_isle.md)
 
-## Next Reading
-- [Implementation Order](../production/implementation_order.md)
+## Suggested Reading
+- Previous: [🏰 Mainland](mainland.md)
+- Next: [🧙 Witchwood Isle](witchwood_isle.md)
 
-[⬅ Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🏝 World Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

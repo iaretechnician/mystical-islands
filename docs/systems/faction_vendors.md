@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Mystical Isles Faction Vendors
+
+---
 
 # Mystical Isles Faction Vendors
-
 ## Purpose
 
 Faction vendors tie economy progression directly to social and political alignment. They provide distinctive rewards, access control, and identity-defining goods.
@@ -48,17 +52,15 @@ Faction vendors tie economy progression directly to social and political alignme
 | Controlled scarcity | Exalted stock limits market flooding |
 | Political gameplay | Top-tier inventory reinforces office/rank progression |
 
+---
+
 ## Related Documents
 
-- [Merchant System](./merchant_system.md)
-- [Merchant Tables](./merchant_tables.md)
-- [Rare Item Buyers](./rare_item_buyers.md)
-- [Vendor Locations](./vendor_locations.md)
-- [Black Market Merchants](./black_market_merchants.md)
-- [Factions & Reputation](../factions/factions.md)
-- [Quest System](../quests/quest_design.md)
-- [Currency System](./currency_system.md)
-- [Items System](./items_system.md)
-- [Economy System](./items_system.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Mystical Isles Rare Item Buyers](rare_item_buyers.md)
+- Next: [Mystical Isles Vendor Locations](vendor_locations.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

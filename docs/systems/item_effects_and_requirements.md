@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Item Effects and Requirements (Atavism X 9)
+
+---
 
 # Item Effects and Requirements (Atavism X 9)
-
 ## Atavism Item Effect Types
 
 | Effect Type | Purpose | Mystical Isles Example |
@@ -234,4 +238,15 @@ Container notes:
 - some require keys
 - some require skill checks
 
-[Return to README](../../README.md)
+---
+
+## Related Documents
+
+
+## Suggested Reading
+- Previous: [Item Master List (Atavism X 9)](item_master_list.md)
+- Next: [Equipment and Slots (Atavism X 9)](equipment_and_slots.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

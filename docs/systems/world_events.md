@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
 
-# 📜 World Events System
-
-**Breadcrumbs:** README → Docs → Systems → World Events  
-**Related:** [Quests](../gameplay/quests/README.md) · [Political System](../lore/political_system.md)
+**Breadcrumbs:** Home / Systems / 📜 World Events System
 
 ---
 
+# 📜 World Events System
 ## Overview
 World events are timed or triggered scenarios that alter region conditions, risks, and opportunities.
 
@@ -33,11 +32,13 @@ MVP includes only small local events (e.g., ward instability, caravan defense).
 
 ---
 
-## Related Systems
-- [Faction Progression](./faction_progression.md)
-- [Quest Design](../quests/quest_design.md)
+## Related Documents
 
-## Next Reading
-- [Milestones](../production/milestones.md)
 
-[⬅ Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Naval Travel](naval_travel.md)
+- Next: [Exploration Systems](exploration_systems.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

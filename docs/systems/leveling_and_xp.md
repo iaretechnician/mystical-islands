@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Leveling & XP
+
+---
 
 # Leveling & XP
-
 ## System Purpose
 
 Mystical Isles uses progression as identity-building, not a race to a cap.
@@ -203,4 +207,15 @@ Design goal: meaningful stakes without excessive punishment.
 
 There is no true endgame; progression becomes social, political, and historical.
 
-[Return to README](../../README.md)
+---
+
+## Related Documents
+
+
+## Suggested Reading
+- Previous: [Skills & Progression](skills_and_progression.md)
+- Next: [Mastery & Progression](mastery_progression.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🎨 Assets Index](README.md)
 
-# 🎨 UI Icons and Documentation Visual Standards
-
-**Breadcrumbs:** README → Docs → Assets → UI Icons  
-**Related:** [Art Style](./art_style.md) · [Asset Usage](./asset_usage.md)
+**Breadcrumbs:** Home / Assets / 🎨 UI Icons and Documentation Visual Standards
 
 ---
 
+# 🎨 UI Icons and Documentation Visual Standards
 ## Purpose
 Define visual consistency for markdown docs so pages read like a coherent studio wiki.
 
@@ -46,10 +45,14 @@ Always map the same icon to the same system category across all documentation.
 ---
 
 ## Related Documents
-- [Asset List](./asset_list.md)
-- [Technical Asset Notes](./technical_asset_notes.md)
+- [🖌 Art Style](art_style.md)
+- [🧰 Asset Usage Standards](asset_usage.md)
+- [🧱 Prefab Standards](../technical/prefab_standards.md)
 
-## Next Reading
-- [Docs Hub](../README.md)
+## Suggested Reading
+- Previous: [🖌 Art Style](art_style.md)
+- Next: You have reached the end of this section path.
 
-[⬅ Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🎨 Assets Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

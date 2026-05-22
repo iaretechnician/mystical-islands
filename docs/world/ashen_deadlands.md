@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🏝 World Index](README.md)
 
-# ☠ Ashen Deadlands
-
-**Breadcrumbs:** README → Docs → World → Ashen Deadlands  
-**Related:** [Creatures](./creatures_and_monsters.md) · [World Events](../systems/world_events.md)
+**Breadcrumbs:** Home / World / ☠ Ashen Deadlands
 
 ---
 
+# ☠ Ashen Deadlands
 ## Overview
 A cursed conflict zone where undead expansion and survivalist warbands contest ancient ruin control.
 
@@ -30,9 +29,14 @@ Planned after baseline progression stability.
 ---
 
 ## Related Documents
-- [Damage and Resistances](../systems/damage_and_resistances.md)
+- [True History](../lore/true_history.md)
+- [🛡 Gameplay Track: PvE](../gameplay/pve/README.md)
+- [⛈ Stormreach Isles](stormreach_isles.md)
 
-## Next Reading
-- [Feature Priority](../production/feature_priority.md)
+## Suggested Reading
+- Previous: [🏴‍☠ Shattered Reefs](shattered_reefs.md)
+- Next: [⛈ Stormreach Isles](stormreach_isles.md)
 
-[⬅ Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🏝 World Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

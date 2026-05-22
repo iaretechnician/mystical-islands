@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Faction Progression
+
+---
 
 # Faction Progression
-
 ## Purpose
 
 Faction progression transforms individual advancement into institutional influence, political authority, and world-level consequence.
@@ -81,4 +85,15 @@ These offices are challengeable, non-permanent, and dependent on active reputati
 
 Faction progression is a primary horizontal system for long-term player identity.
 
-[Return to README](../../README.md)
+---
+
+## Related Documents
+
+
+## Suggested Reading
+- Previous: [Races & Classes](races_and_classes.md)
+- Next: [Player Ranks](player_ranks.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

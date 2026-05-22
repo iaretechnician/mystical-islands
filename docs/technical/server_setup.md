@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🛠 Technical Index](README.md)
 
-# 🖥 Server Setup
-
-**Breadcrumbs:** README → Docs → Technical → Server Setup  
-**Related:** [Atavism Notes](./atavism_notes.md)
+**Breadcrumbs:** Home / Technical / 🖥 Server Setup
 
 ---
 
+# 🖥 Server Setup
 ## Overview
 Server environment standards for multiplayer stability, persistence, and update safety.
 
@@ -15,4 +14,15 @@ Server environment standards for multiplayer stability, persistence, and update 
 
 ---
 
-[⬅ Return to README](../../README.md)
+## Related Documents
+- [🛠 Unity Setup](unity_setup.md)
+- [🗄 Database Notes](database_notes.md)
+- [✅ MVP Scope — Minimum Playable MMORPG](../production/mvp_scope.md)
+
+## Suggested Reading
+- Previous: [🛠 Unity Setup](unity_setup.md)
+- Next: [🧱 Prefab Standards](prefab_standards.md)
+
+## Navigation
+- [⬆ Back to 🛠 Technical Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

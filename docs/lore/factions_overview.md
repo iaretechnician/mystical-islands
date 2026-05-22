@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🌍 Lore Index](README.md)
 
-# 🏴 Factions Overview
-
-**Breadcrumbs:** README → Docs → Lore → Factions Overview  
-**Related:** [Political System](./political_system.md) · [Faction Reference](../factions/factions.md)
+**Breadcrumbs:** Home / Lore / 🏴 Factions Overview
 
 ---
 
+# 🏴 Factions Overview
 ## Overview
 Major powers include Crown Compact, Thornbound Circles, Moonroot Enclaves, Frostpeak Holds, Cinder Tribes, Gravebound Legions, Free Reef Corsairs, Reef Wardens, and Tempest Accord.
 
@@ -34,11 +33,14 @@ MVP emphasizes Crown Compact and one rival influence track, with broader faction
 ---
 
 ## Related Documents
+- [Factions](../factions/factions.md)
+- [🏰 Political System](political_system.md)
 - [Faction Progression](../systems/faction_progression.md)
-- [Faction Vendors](../systems/faction_vendors.md)
-- [Feature Priority](../production/feature_priority.md)
 
-## Next Reading
-- [Political System](./political_system.md)
+## Suggested Reading
+- Previous: [🗺 Islands Overview](islands_overview.md)
+- Next: [🏰 Political System](political_system.md)
 
-[⬅ Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🌍 Lore Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

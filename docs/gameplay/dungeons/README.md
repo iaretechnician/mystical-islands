@@ -1,11 +1,24 @@
-[⬅ Return to README](../../../README.md)
+[⬅ Back to Mystical Isles README](../../../README.md)
+[⬆ Back to 🎮 Gameplay Index](../README.md)
 
-# 🏛 Gameplay Track: Dungeons
-
-**Breadcrumbs:** README → Docs → Gameplay → Dungeons
+**Breadcrumbs:** Home / Gameplay / 🏛 Gameplay Track: Dungeons
 
 ---
 
+# 🏛 Gameplay Track: Dungeons
 Dungeon content track for route design, boss pacing, and reward loops.
 
-[⬅ Return to README](../../../README.md)
+---
+
+## Related Documents
+- [🛡 Gameplay Track: PvE](../pve/README.md)
+- [Artifacts & Objects](../../quests/artifacts_and_objects.md)
+- [🏰 Mainland](../../world/mainland.md)
+
+## Suggested Reading
+- Previous: [⚔ Gameplay Track: PvP](../pvp/README.md)
+- Next: [🧭 Gameplay Track: Exploration](../exploration/README.md)
+
+## Navigation
+- [⬆ Back to 🎮 Gameplay Index](../README.md)
+- [⬅ Back to Mystical Isles README](../../../README.md)

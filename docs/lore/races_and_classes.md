@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🌍 Lore Index](README.md)
 
-# 🧬 Races and Classes Overview
-
-**Breadcrumbs:** README → Docs → Lore → Races and Classes  
-**Related:** [Systems Races & Classes](../systems/races_and_classes.md) · [Abilities](../systems/abilities_system.md)
+**Breadcrumbs:** Home / Lore / 🧬 Races and Classes Overview
 
 ---
 
+# 🧬 Races and Classes Overview
 ## Overview
 Race and class define early identity, but long-term expression comes from skill specialization, faction ties, and gear choices.
 
@@ -34,10 +33,14 @@ MVP supports a limited class set with expandable paths after vertical slice.
 ---
 
 ## Related Documents
-- [Starting Templates](../systems/starting_templates.md)
-- [Skills System](../systems/skills_system.md)
+- [Races & Classes](../systems/races_and_classes.md)
+- [Starting Character Templates](../systems/starting_templates.md)
+- [Mystical Isles — Race & Class Building Identity](../systems/race_class_building_identity.md)
 
-## Next Reading
-- [Developer Vision](./developer_vision.md)
+## Suggested Reading
+- Previous: [🏰 Political System](political_system.md)
+- Next: [Player Lore](player_lore.md)
 
-[⬅ Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🌍 Lore Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

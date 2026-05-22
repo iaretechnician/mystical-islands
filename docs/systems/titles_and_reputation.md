@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Titles & Reputation
+
+---
 
 # Titles & Reputation
-
 ## Purpose
 
 Titles and reputation define social identity, legitimacy, and remembered achievement.
@@ -66,4 +70,15 @@ Titles and reputation define social identity, legitimacy, and remembered achieve
 
 Consequences are meaningful but recoverable to avoid permanent progression collapse.
 
-[Return to README](../../README.md)
+---
+
+## Related Documents
+
+
+## Suggested Reading
+- Previous: [Player Ranks](player_ranks.md)
+- Next: [Magic System](magic_system.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

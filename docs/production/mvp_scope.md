@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🚧 Production Index](README.md)
 
-# ✅ MVP Scope — Minimum Playable MMORPG
-
-**Breadcrumbs:** README → Docs → Production → MVP Scope  
-**Related:** [Vertical Slice](./vertical_slice.md) · [Feature Priority](./feature_priority.md)
+**Breadcrumbs:** Home / Production / ✅ MVP Scope — Minimum Playable MMORPG
 
 ---
 
+# ✅ MVP Scope — Minimum Playable MMORPG
 ## MVP Goal
 Prove the core gameplay loop is fun, stable, and repeatable before expanding complexity.
 
@@ -36,7 +35,15 @@ Prove the core gameplay loop is fun, stable, and repeatable before expanding com
 
 ---
 
-## Next Reading
-- [Vertical Slice](./vertical_slice.md)
+## Related Documents
+- [🧪 Vertical Slice Plan](vertical_slice.md)
+- [🏰 Mainland](../world/mainland.md)
+- [📈 Gameplay Track: Progression](../gameplay/progression/README.md)
 
-[⬅ Return to README](../../README.md)
+## Suggested Reading
+- Previous: [🚧 Production Roadmap](roadmap.md)
+- Next: [🧪 Vertical Slice Plan](vertical_slice.md)
+
+## Navigation
+- [⬆ Back to 🚧 Production Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🌍 Lore Index](README.md)
 
-# 🗺 Islands Overview
-
-**Breadcrumbs:** README → Docs → Lore → Islands Overview  
-**Related:** [World Regions](../world/mainland.md) · [Exploration](../gameplay/exploration/README.md)
+**Breadcrumbs:** Home / Lore / 🗺 Islands Overview
 
 ---
 
+# 🗺 Islands Overview
 ## Overview
 The archipelago is split into six major regions: Mainland, Witchwood, Frostpeak, Ashen Deadlands, Shattered Reefs, and Stormreach.
 
@@ -34,11 +33,14 @@ MVP ships with Mainland as primary playable zone and references other islands th
 ---
 
 ## Related Documents
-- [Mainland](../world/mainland.md)
-- [Witchwood](../world/witchwood_isle.md)
-- [Roadmap](../production/roadmap.md)
+- [Islands Overview](../world/islands_overview.md)
+- [🏰 Mainland](../world/mainland.md)
+- [⛈ Stormreach Isles](../world/stormreach_isles.md)
 
-## Next Reading
-- [Factions Overview](./factions_overview.md)
+## Suggested Reading
+- Previous: [True History](true_history.md)
+- Next: [🏴 Factions Overview](factions_overview.md)
 
-[⬅ Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🌍 Lore Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Mystical Isles — Building Categories
+
+---
 
 # Mystical Isles — Building Categories
-
 This document defines all build object categories, interaction types, and the master list of build objects for Mystical Isles.
 
 ---
@@ -352,14 +356,11 @@ Used for exits from instanced interiors or dungeon spaces.
 
 ## Related Documents
 
-- [Building & Claims System](./building_and_claims_system.md)
-- [Build Object Templates](./build_object_templates.md)
-- [Claim Profiles](./claim_profiles.md)
-- [Player Settlements](./player_settlements.md)
-- [Race & Class Building Identity](./race_class_building_identity.md)
-- [Skills System](./skills_system.md)
-- [Effects System](./effects_system.md)
 
----
+## Suggested Reading
+- Previous: [Mystical Isles — Building & Claims System](building_and_claims_system.md)
+- Next: [Mystical Isles — Build Object Templates](build_object_templates.md)
 
-[Return to README](../../README.md)
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

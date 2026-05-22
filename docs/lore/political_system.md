@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🌍 Lore Index](README.md)
 
-# 🏰 Political System
-
-**Breadcrumbs:** README → Docs → Lore → Political System  
-**Related:** [Faction Progression](../systems/faction_progression.md) · [Economy](../systems/economy_system.md)
+**Breadcrumbs:** Home / Lore / 🏰 Political System
 
 ---
 
+# 🏰 Political System
 ## Overview
 Politics in Mystical Isles is an emergent layer built on faction influence, settlement control, route security, and resource leverage.
 
@@ -34,10 +33,14 @@ Do not include full political simulation in MVP; gate this to post-vertical-slic
 ---
 
 ## Related Documents
-- [MVP Scope](../production/mvp_scope.md)
-- [Roadmap](../production/roadmap.md)
+- [Factions](../factions/factions.md)
+- [🏰 Gameplay Track: Politics](../gameplay/politics/README.md)
+- [Faction Progression](../systems/faction_progression.md)
 
-## Next Reading
-- [Feature Priority](../production/feature_priority.md)
+## Suggested Reading
+- Previous: [🏴 Factions Overview](factions_overview.md)
+- Next: [🧬 Races and Classes Overview](races_and_classes.md)
 
-[⬅ Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🌍 Lore Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

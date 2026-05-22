@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Effects System
+
+---
 
 # Effects System
-
 ## Overview
 
 Effects are the atomic units of gameplay change in Mystical Isles. Every ability applies one or more effects. Effects are the mechanism through which skill investment, ability use, and world interaction produce tangible results.
@@ -275,4 +279,13 @@ All damage and control effects can be partially or fully resisted through stats,
 
 ---
 
-[Return to README](../../README.md)
+## Related Documents
+
+
+## Suggested Reading
+- Previous: [Damage Types & Resistances](damage_types_and_resistances.md)
+- Next: [Currency System](currency_system.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

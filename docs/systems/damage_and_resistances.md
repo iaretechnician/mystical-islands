@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
 
-# 🛡 Damage and Resistances
-
-**Breadcrumbs:** README → Docs → Systems → Damage and Resistances  
-**Related:** [Stats](./stats_system.md) · [Abilities](./abilities_system.md)
+**Breadcrumbs:** Home / Systems / 🛡 Damage and Resistances
 
 ---
 
+# 🛡 Damage and Resistances
 ## Overview
 Damage types and resistance categories shape encounter strategy, build planning, and equipment value.
 
@@ -33,11 +32,13 @@ MVP damage profile should prioritize readability over large type counts.
 
 ---
 
-## Related Systems
-- [Creatures and Monsters](../world/creatures_and_monsters.md)
-- [Crafting System](./crafting_system.md)
+## Related Documents
 
-## Next Reading
-- [Economy System](./economy_system.md)
 
-[⬅ Return to README](../../README.md)
+## Suggested Reading
+- Previous: [📊 Stats System](stats_system.md)
+- Next: [Damage Types & Resistances](damage_types_and_resistances.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🚧 Production Index](README.md)
 
-# 🚧 Production Roadmap
-
-**Breadcrumbs:** README → Docs → Production → Roadmap  
-**Related:** [MVP Scope](./mvp_scope.md) · [Milestones](./milestones.md)
+**Breadcrumbs:** Home / Production / 🚧 Production Roadmap
 
 ---
 
+# 🚧 Production Roadmap
 ## Phase 0 — Foundation (Now)
 - documentation unification
 - core tech baseline
@@ -40,10 +39,14 @@
 ---
 
 ## Related Documents
-- [Feature Priority](./feature_priority.md)
-- [Implementation Order](./implementation_order.md)
+- [✅ MVP Scope — Minimum Playable MMORPG](mvp_scope.md)
+- [🧪 Vertical Slice Plan](vertical_slice.md)
+- [🧭 Implementation Order](implementation_order.md)
 
-## Next Reading
-- [MVP Scope](./mvp_scope.md)
+## Suggested Reading
+- Previous: Start with this page.
+- Next: [✅ MVP Scope — Minimum Playable MMORPG](mvp_scope.md)
 
-[⬅ Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🚧 Production Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

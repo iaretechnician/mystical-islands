@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Races & Classes
+
+---
 
 # Races & Classes
-
 ## Overview
 
 Mystical Isles uses four playable races and a structured class system designed to reinforce world identity, cultural distinctiveness, and long-term specialization. Race is not a cosmetic choice — it shapes your starting region, your faction alignment, your political role in the world, and the trajectory of your entire progression journey.
@@ -723,13 +727,11 @@ Non-human characters do not choose from the class list. Instead, they progress t
 
 ## Related Documents
 
-- [Skills & Progression](./skills_and_progression.md)
-- [Abilities & Skill Trees](./abilities_and_skill_trees.md)
-- [Factions](../factions/factions.md)
-- [Magic System](./magic_system.md)
-- [Naval Travel](./naval_travel.md)
-- [Exploration Systems](./exploration_systems.md)
-- [Islands Overview](../world/islands_overview.md)
-- [Item System](./items_system.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Starting Character Templates](starting_templates.md)
+- Next: [Faction Progression](faction_progression.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

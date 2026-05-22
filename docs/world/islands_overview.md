@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🏝 World Index](README.md)
+
+**Breadcrumbs:** Home / World / Islands Overview
+
+---
 
 # Islands Overview
-
 ## Archipelago Role
 
 The island network is the backbone of Mystical Isles. Each region must support a distinct gameplay identity while contributing to the broader loop of trade, faction conflict, exploration, and progression.
@@ -129,15 +133,17 @@ Stormreach is the late-game frontier where reality remains visibly unstable. It 
 - **Progression range:** levels 40-60
 - **Notable landmarks:** the Broken Sky Array, the Glass Tide Basin, the Nullwatch Spire, and the Maw of Storms
 
+---
+
 ## Related Documents
+- [🗺 Islands Overview](../lore/islands_overview.md)
+- [🏰 Mainland](mainland.md)
+- [⛈ Stormreach Isles](stormreach_isles.md)
 
-- [Player Lore](../lore/player_lore.md)
-- [True History](../lore/true_history.md)
-- [Factions](../factions/factions.md)
-- [Quest Design](../quests/quest_design.md)
-- [Creatures & Monsters](./creatures_and_monsters.md)
-- [Naval Travel](../systems/naval_travel.md)
-- [Exploration Systems](../systems/exploration_systems.md)
-- [Asset Pipeline & Store Links](../assets/asset_pipeline_and_store_links.md)
+## Suggested Reading
+- Previous: Start with this page.
+- Next: [🏰 Mainland](mainland.md)
 
-[Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🏝 World Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

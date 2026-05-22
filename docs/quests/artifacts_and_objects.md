@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 📜 Quest Design Index](README.md)
+
+**Breadcrumbs:** Home / Quest Design / Artifacts & Objects
+
+---
 
 # Artifacts & Objects
-
 ## Purpose
 
 Discoverable objects should connect exploration, progression, faction rivalry, and worldbuilding. Items found in Mystical Isles are not just loot drops; they are evidence of lost systems, vanished expeditions, and ongoing competition over the past.
@@ -51,13 +55,17 @@ High-risk objects should create meaningful trade-offs: stronger short-term power
 - **Rare-Epic:** drive named quest chains, ship progression, and faction negotiation
 - **Legendary:** reshape regional access, boss encounters, or late-game world-state objectives
 
+---
+
 ## Related Documents
-
-- [Quest Design](./quest_design.md)
-- [True History](../lore/true_history.md)
-- [Factions](../factions/factions.md)
-- [Creatures & Monsters](../world/creatures_and_monsters.md)
+- [Quest Design](quest_design.md)
 - [Ancient Technology](../design/ancient_technology.md)
-- [Exploration Systems](../systems/exploration_systems.md)
+- [🏛 Gameplay Track: Dungeons](../gameplay/dungeons/README.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Quest Design](quest_design.md)
+- Next: You have reached the end of this section path.
+
+## Navigation
+- [⬆ Back to 📜 Quest Design Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

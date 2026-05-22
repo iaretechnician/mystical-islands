@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🛠 Technical Index](README.md)
 
-# 🧩 Atavism Notes
-
-**Breadcrumbs:** README → Docs → Technical → Atavism Notes  
-**Related:** [Unity Setup](./unity_setup.md) · [Server Setup](./server_setup.md)
+**Breadcrumbs:** Home / Technical / 🧩 Atavism Notes
 
 ---
 
+# 🧩 Atavism Notes
 ## Overview
 Atavism is the MMORPG backbone for character, combat, inventory, quest, and networked progression systems.
 
@@ -19,4 +18,15 @@ Atavism is the MMORPG backbone for character, combat, inventory, quest, and netw
 
 ---
 
-[⬅ Return to README](../../README.md)
+## Related Documents
+- [🛠 Unity Setup](unity_setup.md)
+- [🗄 Database Notes](database_notes.md)
+- [Mystical Isles Items System (Atavism X 9)](../systems/items_system.md)
+
+## Suggested Reading
+- Previous: Start with this page.
+- Next: [🛠 Unity Setup](unity_setup.md)
+
+## Navigation
+- [⬆ Back to 🛠 Technical Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

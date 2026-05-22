@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🏝 World Index](README.md)
+
+**Breadcrumbs:** Home / World / Creatures & Monsters
+
+---
 
 # Creatures & Monsters
-
 ## Creature Design Goals
 
 Creatures in Mystical Isles should reinforce island identity, communicate the consequences of The Fracturing, and create distinct risk profiles for travel, exploration, and progression.
@@ -64,13 +68,17 @@ Creatures in Mystical Isles should reinforce island identity, communicate the co
 - pirate crews track beasts guarding wreck sites and hidden coves
 - Stormreach expeditions seek samples from mutated apex predators for ward and portal research
 
+---
+
 ## Related Documents
+- [🐉 Gameplay Track: Mobs](../gameplay/mobs/README.md)
+- [🛡 Gameplay Track: PvE](../gameplay/pve/README.md)
+- [⛈ Stormreach Isles](stormreach_isles.md)
 
-- [Player Lore](../lore/player_lore.md)
-- [True History](../lore/true_history.md)
-- [Islands Overview](./islands_overview.md)
-- [Artifacts & Objects](../quests/artifacts_and_objects.md)
-- [Ancient Technology](../design/ancient_technology.md)
-- [Magic System](../systems/magic_system.md)
+## Suggested Reading
+- Previous: [⛈ Stormreach Isles](stormreach_isles.md)
+- Next: You have reached the end of this section path.
 
-[Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🏝 World Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

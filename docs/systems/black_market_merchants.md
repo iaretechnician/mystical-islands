@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Mystical Isles Black Market Merchants
+
+---
 
 # Mystical Isles Black Market Merchants
-
 ## Purpose
 
 Black market merchants support high-risk, high-reward trade loops for contraband, stolen cargo, cursed relics, and pirate economies.
@@ -53,18 +57,15 @@ Black market merchants support high-risk, high-reward trade loops for contraband
 | Coral Vault Key | 1 | 43200 |
 | Treasure Map | 1 | 86400 |
 
+---
+
 ## Related Documents
 
-- [Merchant System](./merchant_system.md)
-- [Merchant Tables](./merchant_tables.md)
-- [Rare Item Buyers](./rare_item_buyers.md)
-- [Vendor Locations](./vendor_locations.md)
-- [Faction Vendors](./faction_vendors.md)
-- [Items System](./items_system.md)
-- [Currency System](./currency_system.md)
-- [Factions & Reputation](../factions/factions.md)
-- [Quest System](../quests/quest_design.md)
-- [Naval Systems](./naval_travel.md)
-- [Economy System](./items_system.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Mystical Isles Merchant Tables (Atavism X 9)](merchant_tables.md)
+- Next: [Mystical Isles Rare Item Buyers](rare_item_buyers.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

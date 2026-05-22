@@ -1,12 +1,11 @@
-[⬅ Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to 🏝 World Index](README.md)
 
-# 🏰 Mainland
-
-**Breadcrumbs:** README → Docs → World → Mainland  
-**Related:** [MVP Scope](../production/mvp_scope.md) · [Quests](../gameplay/quests/README.md)
+**Breadcrumbs:** Home / World / 🏰 Mainland
 
 ---
 
+# 🏰 Mainland
 ## Overview
 Mainland is the primary lawful hub and MVP starter region.
 
@@ -34,10 +33,14 @@ Includes one city, surrounding exploration ring, one dungeon, and adjacent gathe
 ---
 
 ## Related Documents
-- [Frostpeak Isle](./frostpeak_isle.md)
-- [Roadmap](../production/roadmap.md)
+- [✅ MVP Scope — Minimum Playable MMORPG](../production/mvp_scope.md)
+- [📜 Gameplay Track: Quests](../gameplay/quests/README.md)
+- [❄ Frostpeak Isle](frostpeak_isle.md)
 
-## Next Reading
-- [Progression Track](../gameplay/progression/README.md)
+## Suggested Reading
+- Previous: [Islands Overview](islands_overview.md)
+- Next: [❄ Frostpeak Isle](frostpeak_isle.md)
 
-[⬅ Return to README](../../README.md)
+## Navigation
+- [⬆ Back to 🏝 World Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)

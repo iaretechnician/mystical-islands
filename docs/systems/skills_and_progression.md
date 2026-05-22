@@ -1,7 +1,11 @@
-[Return to README](../../README.md)
+[⬅ Back to Mystical Isles README](../../README.md)
+[⬆ Back to ⚔ Systems Index](README.md)
+
+**Breadcrumbs:** Home / Systems / Skills & Progression
+
+---
 
 # Skills & Progression
-
 ## Overview
 
 Mystical Isles uses a horizontal progression philosophy. Players deepen mastery rather than inflating numbers. A character who has spent three hundred hours on the water is genuinely different from one who hasn't — not because their attack stat is higher, but because they know routes, can read weather, can repair a hull mid-storm, and have the reputation to dock at ports that others are turned away from.
@@ -381,12 +385,11 @@ None of these paths require a high combat level. All of them require deep invest
 
 ## Related Documents
 
-- [Races & Classes](./races_and_classes.md)
-- [Abilities & Skill Trees](./abilities_and_skill_trees.md)
-- [Factions](../factions/factions.md)
-- [Magic System](./magic_system.md)
-- [Naval Travel](./naval_travel.md)
-- [Exploration Systems](./exploration_systems.md)
-- [Item System](./items_system.md)
 
-[Return to README](../../README.md)
+## Suggested Reading
+- Previous: [Skills System](skills_system.md)
+- Next: [Leveling & XP](leveling_and_xp.md)
+
+## Navigation
+- [⬆ Back to ⚔ Systems Index](README.md)
+- [⬅ Back to Mystical Isles README](../../README.md)
