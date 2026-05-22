@@ -52,13 +52,17 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 | Systems | [Naval Travel](./docs/systems/naval_travel.md) |
 | Systems | [Exploration Systems](./docs/systems/exploration_systems.md) |
 | Systems | [Item System](./docs/systems/items_system.md) |
-| Systems | [Crafting System](./docs/systems/items_system.md#crafting-materials) |
-| Systems | [Economy System](./docs/systems/items_system.md#economy--trade) |
+| Systems | [Item Types Reference](./docs/systems/item_types_reference.md) |
+| Systems | [Equipment & Slots](./docs/systems/equipment_and_slots.md) |
+| Systems | [Item Effects & Requirements](./docs/systems/item_effects_and_requirements.md) |
+| Systems | [Item Master List](./docs/systems/item_master_list.md) |
+| Systems | [Crafting System](./docs/systems/skills_system.md#crafting-skills) |
+| Systems | [Economy System](./docs/systems/items_system.md) |
 | Systems | [Currency System](./docs/systems/currency_system.md) |
-| Systems | [Naval Equipment](./docs/systems/items_system.md#naval-equipment) |
-| Systems | [Relics & Artifacts](./docs/systems/items_system.md#relics--artifacts) |
-| Systems | [Trade Goods](./docs/systems/items_system.md#trade-goods) |
-| Systems | [Leadership & Reputation Systems](./docs/systems/items_system.md#leadership--political-progression) |
+| Systems | [Naval Equipment](./docs/systems/equipment_and_slots.md) |
+| Systems | [Relics & Artifacts](./docs/systems/item_effects_and_requirements.md) |
+| Systems | [Trade Goods](./docs/systems/item_master_list.md) |
+| Systems | [Leadership & Reputation Systems](./docs/systems/items_system.md) |
 | Systems | [Races & Classes](./docs/systems/races_and_classes.md) |
 | Systems | [Damage Types & Resistances](./docs/systems/damage_types_and_resistances.md) |
 | Systems | [Stat System](./docs/systems/damage_types_and_resistances.md#part-3--required-resistance-stats) |
@@ -122,7 +126,11 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 - [Naval Travel](./docs/systems/naval_travel.md)
 - [Exploration Systems](./docs/systems/exploration_systems.md)
 - [Item System](./docs/systems/items_system.md)
-- [Economy & Trade](./docs/systems/items_system.md#economy--trade)
+- [Item Types Reference](./docs/systems/item_types_reference.md)
+- [Equipment & Slots](./docs/systems/equipment_and_slots.md)
+- [Item Effects & Requirements](./docs/systems/item_effects_and_requirements.md)
+- [Item Master List](./docs/systems/item_master_list.md)
+- [Economy & Trade](./docs/systems/items_system.md)
 - [Currency System](./docs/systems/currency_system.md)
 - [Leadership & Political Progression](./docs/systems/items_system.md#leadership--political-progression)
 - [Races & Classes](./docs/systems/races_and_classes.md)
@@ -131,6 +139,10 @@ The ancient civilization built **Aether Wards** to stabilize reality, contain br
 - [Combat System](./docs/systems/damage_types_and_resistances.md#part-1--atavism-damage-type-overview)
 - [Skills System](./docs/systems/skills_system.md)
 - [Items System](./docs/systems/items_system.md)
+- [Item Types Reference](./docs/systems/item_types_reference.md)
+- [Equipment & Slots](./docs/systems/equipment_and_slots.md)
+- [Item Effects & Requirements](./docs/systems/item_effects_and_requirements.md)
+- [Item Master List](./docs/systems/item_master_list.md)
 - [Leadership Systems](./docs/systems/skills_system.md#social--political-skills)
 - [Skills & Progression](./docs/systems/skills_and_progression.md)
 - [Political Systems](./docs/systems/faction_progression.md#political-advancement-and-world-office)
