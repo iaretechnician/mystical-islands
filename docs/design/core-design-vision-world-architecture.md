@@ -1,3 +1,5 @@
+[Return to README](../../README.md)
+
 # Mystical Islands — Core Design Vision & World Architecture
 
 ## Project Overview
@@ -393,3 +395,17 @@ It is intended to feel like:
 - a world shaped by player actions and history
 
 Players should feel the world existed before them, but changed because of them.
+
+
+---
+
+## Related Documents
+
+- [README](../../README.md)
+- [Design Docs Index](./README.md)
+- [True History](../lore/true_history.md)
+- [Islands Overview](../world/islands_overview.md)
+- [Factions](../factions/factions.md)
+- [Exploration Systems](../systems/exploration_systems.md)
+
+[Return to README](../../README.md)
